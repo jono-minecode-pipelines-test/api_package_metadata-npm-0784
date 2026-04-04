@@ -1,0 +1,55 @@
+{
+    "name": "123-currency-convertor",
+    "version": "1.0.0",
+    "description": "This is a simple currency convertor",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "123-currency-convertor": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "\"ERUM WARIS\""
+    },
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.17"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "123-currency-convertor@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-qekbm8maxWYWceO6et9goU0Er38JStywIUHi1LeX9MMh0hhsoKJLPfgAcKma44AlCeRf1nN/j0UlnBCkwck84g==",
+        "shasum": "a6932fd429d5d1d8367d670e5ede052200499d07",
+        "tarball": "https://registry.npmjs.org/123-currency-convertor/-/123-currency-convertor-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 15198,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDJ4Pb17Yls66CegigVxo1gSqUp6R/2/V1Z4OrMyimJhwIhALglTCy2EsEd1W5azhlXMbG6LtpyVbDGxT0Vd7OVVrNT"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "erumwaris",
+        "email": "erumwaris93@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "erumwaris",
+            "email": "erumwaris93@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/123-currency-convertor_1.0.0_1712351604834_0.7115666097179136"
+    },
+    "_hasShrinkwrap": false
+}

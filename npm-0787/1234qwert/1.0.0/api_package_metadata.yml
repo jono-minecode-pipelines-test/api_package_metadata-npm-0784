@@ -1,0 +1,45 @@
+{
+    "name": "1234qwert",
+    "version": "1.0.0",
+    "description": "",
+    "main": "moment.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1234qwert@1.0.0",
+    "_nodeVersion": "14.15.1",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-H67StS4SuEazWOqHFcXlrp4VmL+avL0mClrHV2t7PbyksDR4pHzP0e3gBiuNpJ+niavvrsZEFagwzzezHfVdwg==",
+        "shasum": "37adf8e2bb480abf8a71afa1e7ab3082167315dd",
+        "tarball": "https://registry.npmjs.org/1234qwert/-/1234qwert-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 544,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhE50ECRA9TVsSAnZWagAAf7oP/AlZWxL/lM70xVIjUXwm\nEg2opEmFOXeOwuhkdVtmf1hvrO3g7se0EkyiCPJlvUzwrkktdeLSwYm0r9Dh\nWyIH6KX6MnF7sgrB0fRDn9MMwDK+4o7lrDLhEH9VPqXjELtl9PQHhKCKYaDA\nvlBrz7b6W8p4cW0M5z7g/CP/TBvUXyuwUAvgJcmtz3eM/DAJNytJhq2zRMLm\nOxAIU7gMao9+lg/xGKx2usw7Kxrr4Ix9G4MoJc/t6Rwz4QvHzc3WD6tpjI32\ntPllaQETR0JmBacfkhKN9bQfNqC+3/2I7KWE47G8u6I3Xt3MYc7JdUMA/Uju\nYBFSWMmFWaOap+h+qvrFItKxHk6zS4L/amh2wJcjlJOZ8uZHhqolq1dqWrSZ\n5kC+v2p82jEDvy8qBQFOQ3tAJOQlue76rpYJ5YH/ox0Z38dHpWh8AmMuICh8\ngQQ46QsNft5jSz9YthAixzWpk/Dv4RqL7GSJFdkMfTvG69MW0i3ZEq+aBNv3\n55qJ01zH5oy0DJ/n7TLiN+3MOqLGWyHy4UTi4qcC2lA3/BhbXUr3hZq/TXme\nvFyaxDYg2O8afmbsTOiTsYmJggxEvircHrFIyWov6AfCop/n1ILGWFmfyy1D\nSxWAmm6EgyRFN5XYHikou7u0Yg16tJoXU438N7z/MYnBr0PSas9d5N0r17BX\nW1B0\r\n=N0VH\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCMexvEVcXeO8/h8HpPnQeV/5Ai9P2LZZdy3df/KuCaaQIgdep3S6925RcL6nhZsktfUiWcEhtQDYL7ZSqvjhjIgHs="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "yuanqing199908283619",
+        "email": "2655488262@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "yuanqing199908283619",
+            "email": "2655488262@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1234qwert_1.0.0_1628675332748_0.40917430967867285"
+    },
+    "_hasShrinkwrap": false
+}

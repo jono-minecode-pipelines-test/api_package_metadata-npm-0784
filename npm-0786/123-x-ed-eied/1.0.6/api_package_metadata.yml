@@ -1,0 +1,58 @@
+{
+    "name": "123-x-ed-eied",
+    "private": false,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "next": "12.0.4",
+        "react": "17.0.2",
+        "react-dom": "17.0.2"
+    },
+    "devDependencies": {
+        "@types/node": "16.11.10",
+        "@types/react": "17.0.36",
+        "eslint": "7",
+        "eslint-config-next": "12.0.4",
+        "typescript": "4.5.2"
+    },
+    "version": "1.0.6",
+    "gitHead": "7959f454c36548d0c78c30502944f520574f9374",
+    "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+    "_id": "123-x-ed-eied@1.0.6",
+    "_nodeVersion": "14.17.6",
+    "_npmVersion": "6.14.15",
+    "dist": {
+        "integrity": "sha512-Xr4CVi984PkDDVbk3N4O7XPYgkOGuCYya35sOAX6JHFg7LTuxPd1euDDTIk/yO8IkJ00MXe3ZrmTB9nsDfJ/0Q==",
+        "shasum": "96394f3c35be8308fd2415fe5345640a65c038bc",
+        "tarball": "https://registry.npmjs.org/123-x-ed-eied/-/123-x-ed-eied-1.0.6.tgz",
+        "fileCount": 56,
+        "unpackedSize": 562099,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhpPiPCRA9TVsSAnZWagAAeHwP/0t+muVYskrtDZ739Asd\nRqY2Gg7h0eZjysJ/TAgz0uBjyVoIyPwIcYigwoqI6xCyg/94Bduk+eg7pX/1\n8rgb1pS31kt3Im6cKQhdEQP4gazxFLe6KmCd6FVB89th1T1cjxCUgWvqjXKC\nIHOEHfMU73bLxAQbGN/e0XNyL4BOOtBmp6xpnmI2kZ7clAWGWUQY2HERfyus\nHWD1gwONBK8wsp8fzz/+sXc9/yx15cE9ePRbhxumuXKCQLGjsDHgWJ4evTY0\nQnB2C3sktvf2h5aGIk5/PpfcwtFMUEzCqXEi1JFlGEv0cLLTAtQ/+kUZFfXf\n+S5mjOEvIBuAVRahVCYVX7OnVwcPoLY9D9q8TljyXrueiqNE5oEScGXbiZ9I\nFuOnp7nDPAG+AYvskRyeF0ziOkz0oHRoq4+qimz5WmdxVDQ047U62xabas34\nNXgYCHfk1k4CA+xa6X4kPfUmj83KabQJCh7JFxt8qmghQ52H4IAX3Gq21fqv\nz80/HnefR1WHfbu02y+ybzRcQneNSmBQBkuKfoRmlFWJvS+04tbKkSI18Y5B\nPQ18dkX/j32v/2+iJ0KLRku6vqJKGXs0uuW6wTjJnqT756gT5gGS/MNwhorx\nvNmAISp0jzgi6Ks2WQg5o+2A24MkdKAEnznxmyVmpsr7cjvUS73qLHrjCs0Y\ncXRw\r\n=Pxkx\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHjKi1cDQYYt2AaVN83fuAts5moOmFpEfDlfTp5lVpTDAiBD9F5SSrUo3bDn+KMuH5ECv8KXz75rurrbtXaKOeNPVA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "andreas.groos",
+        "email": "andreas.groos1@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "andreas.groos",
+            "email": "andreas.groos1@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/123-x-ed-eied_1.0.6_1638201487484_0.6434207527739622"
+    },
+    "_hasShrinkwrap": false
+}
