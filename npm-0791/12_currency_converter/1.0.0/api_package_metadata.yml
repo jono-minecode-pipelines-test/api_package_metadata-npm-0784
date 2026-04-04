@@ -1,0 +1,49 @@
+{
+    "name": "12_currency_converter",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.17"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "12_currency_converter@1.0.0",
+    "_nodeVersion": "20.9.0",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-LGKbzldYqlwKdgFm8Tv71q7gcIbmw6Kvc/pFdVYtrkHpHg6mqDrqitN3jQKH0eKPdacdHm+bM/cvplB8/jiiqA==",
+        "shasum": "adb7522e938fd824026b1b54e3d0446dd6521336",
+        "tarball": "https://registry.npmjs.org/12_currency_converter/-/12_currency_converter-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14584,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIF0pb7upX6ct3rpZz8/9UvBIXmQ3PcSUUdGWa3xnVKgTAiEAsSneafFBME/amGln2QpJYDToLoj7uvdhGSkN9Ei+u8g="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "azshaikh",
+        "email": "ladliqueen380@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azshaikh",
+            "email": "ladliqueen380@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/12_currency_converter_1.0.0_1712518126512_0.8378723200201477"
+    },
+    "_hasShrinkwrap": false
+}

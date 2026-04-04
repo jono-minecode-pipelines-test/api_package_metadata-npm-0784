@@ -1,0 +1,42 @@
+{
+    "name": "136",
+    "version": "0.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "136@0.0.0",
+    "_shasum": "b7861c3c939ae70ae77cb247325f2235d458cc25",
+    "_from": ".",
+    "_npmVersion": "3.9.3",
+    "_nodeVersion": "6.2.1",
+    "_npmUser": {
+        "name": "front",
+        "email": "136177121@qq.com"
+    },
+    "dist": {
+        "shasum": "b7861c3c939ae70ae77cb247325f2235d458cc25",
+        "tarball": "https://registry.npmjs.org/136/-/136-0.0.0.tgz",
+        "integrity": "sha512-QrnWtrMmy/VPJuv/aTFdu/VlYVTtmrzl/X8CFrO7iisaJxg51DLteqWTW/QE/paBew35m+OjXXDaEUP1PLbRPw==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDFKuEZTh7LlstOBn0Djdrf7GMgysBB6zIdH2XpT5J52AIgGWU5OOeABsqpY9VOQKNSgGshPo1wtt/3fs9VlT6fF38="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "front",
+            "email": "136177121@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-16-east.internal.npmjs.com",
+        "tmp": "tmp/136-0.0.0.tgz_1467336080626_0.5627698272000998"
+    },
+    "directories": {}
+}
