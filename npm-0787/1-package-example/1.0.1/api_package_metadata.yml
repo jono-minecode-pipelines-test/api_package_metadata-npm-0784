@@ -1,0 +1,59 @@
+{
+    "name": "1-package-example",
+    "version": "1.0.1",
+    "description": "This is my first npm package",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pushpendra-languify/example-package-1.git"
+    },
+    "keywords": [
+        "example"
+    ],
+    "author": {
+        "name": "Pushpendra Upadhyay"
+    },
+    "license": "ISC",
+    "types": "./index.d.ts",
+    "bugs": {
+        "url": "https://github.com/pushpendra-languify/example-package-1/issues"
+    },
+    "homepage": "https://github.com/pushpendra-languify/example-package-1#readme",
+    "gitHead": "ac95806aafcf5d240c9fd52947d102d256e97af0",
+    "_id": "1-package-example@1.0.1",
+    "_nodeVersion": "16.13.2",
+    "_npmVersion": "8.1.2",
+    "dist": {
+        "integrity": "sha512-8PHQuxGnqsCYNtqY6M6GI7hPPno7zEUxKHRkfzlSuE5bdAIpt0HLTkdOe+mQgdI3uHFrZj52MpQjqr+WHSYKwA==",
+        "shasum": "a1ec1679bd004279ff5f951e8590dde99390eee6",
+        "tarball": "https://registry.npmjs.org/1-package-example/-/1-package-example-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 793,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBaxA4DkdbHz6QXtIiTdAGf+2VQBGx5XU7B7caJJL1+cAiB2qqsHl17nBElFA2hB/LoxqIYPK+AOACZel9SXkFP49w=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi0V6fACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr7JQ//eg6Ztma+SVeZnQSkJhlS/bFSOMwCJDsP8s0MhwtojNOpEzuu\r\n+CY3P898RF9eyOBc9joNmJKIe7pgG0hbrps1HKmAtGK70MTO1JOfd2m2V6ju\r\nhid9Jqui+9Wjx2sjeTGBMjahmkclCytXws59iySAXqbcFW2j7U2qrFguKBM3\r\nvdPU3OTaDK0pHjn1UJp7k40tyUEdB1LvbGHMndlARjQbCO04gCAHfftXDAMK\r\ni/oxJ8Rh//WLCkP9zOeXV9Vxj57HZNr2jZ3l12693HclacaMmqR3aUovSoVc\r\nMWozbogMY/r2MZ7pBxVzCEeG19L9sxTwLm02AbBIRHhDXM7tFTDSILCBftbw\r\n0Nto8AI5RKl+PAcoXVu2ryF38kZr6KoIUNnkj7DU33AythcDF1muX+ET7awT\r\nvtVZW7K6nhcDJ9iK+lz6UfvQ+ORlPloj55nCXrNt11WeBRTB82IMGC06LV9S\r\ny5kjySv9Z29cMl2FBxgURBdpuG8UABWp6jDLh70ld7CoMEemMsM4E7meOURp\r\nrz+roJbmkGZs+PVzX7553uA8IvOgRBnMnGRUbC9QLv2N8xkDLf35WGxqAvXN\r\nZu1gt2XtW0AvqCzY/SPQgnN/xys4CBA2RXtw8zxaQ3Sm9qOHbtsRMRpfxEn6\r\n92uOf26HIDoM5co80gmppI55tKc96u5G86k=\r\n=Gxm/\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "pushpendra.languify",
+        "email": "pushpendra.languify@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "pushpendra.languify",
+            "email": "pushpendra.languify@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1-package-example_1.0.1_1657888414946_0.8126511255755133"
+    },
+    "_hasShrinkwrap": false
+}

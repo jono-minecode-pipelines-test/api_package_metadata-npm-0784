@@ -1,0 +1,50 @@
+{
+    "name": "0x81-utils",
+    "version": "1.1.5",
+    "description": "A unification of some modules plus some extra functions",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "0x81_string": "^1.0.1",
+        "array_returns": "^1.0.0",
+        "json-file-encrypt": "^1.1.4"
+    },
+    "_id": "0x81-utils@1.1.5",
+    "_nodeVersion": "12.16.1",
+    "_npmVersion": "6.14.4",
+    "dist": {
+        "integrity": "sha512-5uxWDTB/MH509zAPzypG21wkru96wX3FlvT/AEoWZbFpT9HSXvRMsPIN1DCIUMu0CmjBhxBsLsF0aLmRSPKhww==",
+        "shasum": "e35bc5e0abc8968fc5588bcdca8593ba59f70ff4",
+        "tarball": "https://registry.npmjs.org/0x81-utils/-/0x81-utils-1.1.5.tgz",
+        "fileCount": 9,
+        "unpackedSize": 13649,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfIyWHCRA9TVsSAnZWagAAIpoP/3qk34UGhBD2uSsX9vG2\nSnAMgp2TXVjSW3nAlGAcZALpnVB4nTS+R0DcywAyLa69hQ3imnGghe2zJ22o\n7VNcBstR/5GlUiLUM50kQumQQyrCtZmA/XoCSX5z2N9LyeRagDAaqHXiGz/t\nPXlolvc8m/mZZRGe17AEW1FOa3q2wudOYtzDn0IlKKfLewOf+UeWynvjq8hi\nS77Z4zaWWAY9549tRzhr48UnEeKZGqjXUX4Xg7YAvqCDcNDemq6KqPVwKlRz\ns/7PuB97CdOMa2eT6oz6GdCms5JyK/s6oa90HNO/Ar6QlBpiAo23HqCFl2GF\n/AYRAs4PbwNMLDSoD7GyHbOnGFlP+RMSrIxk5qKBgkZP4XAcgOj5iPX/p5b1\nDS9jv1TEDGIWyak7wOHEiVVEVClWBPhua4EBbraUYHzvnwKcT2PZaLxx16lH\nTNbA57iLg23ib6w2WpPofu+uRpLP+NPdNt5G3ZBnN5jYPkF8jgSZLf0w4s5L\n0RzPTuXKmuGTAi1wKghAwUoHtO8TV8cJIVvYiQRxAIL7MMeDb+17YZ7bN3/N\nr3o8PwEPX1z7Z7tWzFtPEGZzkl2bzZMqaXhxTfelZQyygNjPRUH2Uo/7Pp2a\nSoqBheSxx9bSmdGqWLFpn0V44eqPbcj+B2Ha8eW/LTyL+aUtyXERPVP5RYai\nGuOG\r\n=4IXE\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDcLAP1Ky0mOOUjW0ml35N+qWJJgKNPJ2ahrceAgLxPwAIhAJf3Dz6YITQ54FTnnf2Su5zlO7MwYtCqqMhugOs2FvC3"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "0x81",
+            "email": "ulrich.barnstedt@gmail.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "0x81",
+        "email": "ulrich.barnstedt@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0x81-utils_1.1.5_1596138886904_0.021782528283452063"
+    },
+    "_hasShrinkwrap": false
+}

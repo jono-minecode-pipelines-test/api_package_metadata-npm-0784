@@ -1,0 +1,96 @@
+{
+    "name": "0xshardeum",
+    "license": "MIT",
+    "version": "1.0.1",
+    "description": "\ud83d\udee0 An SDK for building applications on top of Defi Kingdoms.",
+    "main": "dist/index.js",
+    "typings": "dist/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pancakeswap/pancake-swap-sdk.git"
+    },
+    "keywords": [
+        "pancakeswap",
+        "bsc"
+    ],
+    "module": "dist/sdk.esm.js",
+    "scripts": {
+        "lint": "tsdx lint src test",
+        "build": "tsdx build",
+        "start": "tsdx watch",
+        "test": "tsdx test",
+        "prepublishOnly": "tsdx build"
+    },
+    "dependencies": {
+        "big.js": "^5.2.2",
+        "decimal.js-light": "^2.5.0",
+        "jsbi": "^3.1.4",
+        "tiny-invariant": "^1.1.0",
+        "tiny-warning": "^1.0.3",
+        "toformat": "^2.0.0"
+    },
+    "peerDependencies": {
+        "@ethersproject/address": "^5.0.0",
+        "@ethersproject/contracts": "^5.0.0",
+        "@ethersproject/networks": "^5.0.0",
+        "@ethersproject/providers": "^5.0.0",
+        "@ethersproject/solidity": "^5.0.0"
+    },
+    "devDependencies": {
+        "@ethersproject/address": "^5.0.2",
+        "@ethersproject/contracts": "^5.0.2",
+        "@ethersproject/networks": "^5.0.2",
+        "@ethersproject/providers": "^5.0.5",
+        "@ethersproject/solidity": "^5.0.2",
+        "@types/big.js": "^4.0.5",
+        "@types/jest": "^24.0.25",
+        "babel-plugin-transform-jsbi-to-bigint": "^1.3.1",
+        "tsdx": "^0.12.3"
+    },
+    "engines": {
+        "node": ">=10"
+    },
+    "prettier": {
+        "printWidth": 120,
+        "semi": false,
+        "singleQuote": true
+    },
+    "gitHead": "ee03cead797e20c42eca8aaffb687220d8023562",
+    "bugs": {
+        "url": "https://github.com/pancakeswap/pancake-swap-sdk/issues"
+    },
+    "homepage": "https://github.com/pancakeswap/pancake-swap-sdk#readme",
+    "_id": "0xshardeum@1.0.1",
+    "_nodeVersion": "17.3.1",
+    "_npmVersion": "8.3.0",
+    "dist": {
+        "integrity": "sha512-YoR6TQBWjA8lRyE9Z4OJed/tI6tnW7YK69Nney/hsktTWXahtWChkCh6bIeUpT8eDSpeT5ZkT/VFu4bNzo2W6w==",
+        "shasum": "30957c5ce177188a31e04e06ecbc013aaafad7f8",
+        "tarball": "https://registry.npmjs.org/0xshardeum/-/0xshardeum-1.0.1.tgz",
+        "fileCount": 38,
+        "unpackedSize": 482889,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICHfuenY2V2a5cNMEooWMnzS5MgnxQeplXbUzfRZXjuJAiEAlAFKHPIATos1hTjG397pfjmmia+cxszLia2zzp5C0qo="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiaOCDACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmrbhg/9FP1R0xgpVbGTuWQqDHi1owBVIbqwWSZm5FA6FojtJOArj3lL\r\nYZhk3H5JO5pD/V12Z8UsSSXAxBQLZ+vlflCljRTIpFuFxh7kcxQYoAK1yG/T\r\nMh661lz+AG+PeVeXU9cl/2xuG2c0F6pu4TKvTYDQO1Yjd18fvyWy6bHHRWqv\r\nyjEW800hoH/olBlSlzb+0CRiI/sItxVsZstStcSPUxZpIYxnXi2uVKz1wA/6\r\nFIRPpgNAR9VAwTpXDKOB0kKeqDrLLID4qRqHuzNoAkoxNyvnjlTM4qQjkb0f\r\nbbz+aQK19mzgIP5cgWMBzsx344YMDOPOrkITeuV55Z+VHcGpfLf5LnekfSub\r\nV7DqPPaSPpi6Qxolt7L8grPb81mEJNFkYGyXtfyLgkP8OQf6yrpjB2Y8iRVg\r\n8m2PepyTrcFc/5o0GLU5kVCUNURV+TVK0qAFDQVo4HazgvxXB2Z18u9erR67\r\nsw45Hxr1KJIYniVnWsmvf4n7aFRCD68MP0zIbq3hSGla6CZ2JObyWr9HfRQY\r\ntbdP7qQgmq4pNNX2w23MlvaQbK1kO4wm5sM/V0C8IKZkmlbEFZjw94TWfZYM\r\n/b2Eja9ky0awnJv4n1vntaJW6RuH7mSdje8iZVfMNEhlurBr8AMKA1GN6UnB\r\nZsRcHWmFdfNtRPM96ddv2sKvXFNi7Y+I1CM=\r\n=tRhc\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "0xshady",
+        "email": "shadymod1999@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "0xshady",
+            "email": "shadymod1999@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xshardeum_1.0.1_1651040387733_0.2914067537958298"
+    },
+    "_hasShrinkwrap": false
+}

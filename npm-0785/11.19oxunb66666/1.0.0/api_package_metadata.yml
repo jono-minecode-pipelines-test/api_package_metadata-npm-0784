@@ -1,0 +1,44 @@
+{
+    "name": "11.19oxunb66666",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "11.19oxunb66666@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-EqswgNvfm3DWZipv/u6H3a1e2IOVvy8P9oS/jvrLNqSUfdW2U66w4jV3Kzgb9rCAEyfRCcVTPXv5/oMaA5CdVg==",
+        "shasum": "ea1124bb07c42412a6b0dc175e800b6cca9f534e",
+        "tarball": "https://registry.npmjs.org/11.19oxunb66666/-/11.19oxunb66666-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 287,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCrqOQ/jxNdsuCt1fcK10sp02k8eEaK5CR/963H9SYKygIhANvwC2jicke4Fn0VNe86IlR4QAKTrXfKNPsl2leNEmL3"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "jijingyi",
+        "email": "3209747974@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "jijingyi",
+            "email": "3209747974@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/11.19oxunb66666_1.0.0_1637068145850_0.27531935364029025"
+    },
+    "_hasShrinkwrap": false
+}

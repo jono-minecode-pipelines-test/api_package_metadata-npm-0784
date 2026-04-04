@@ -1,0 +1,46 @@
+{
+    "name": "1-xbet-registratsiia-zerkalo-1xbet-vhod15-site-xf1bio8tk",
+    "version": "1.0.0",
+    "description": "1-xbet-registratsiia-zerkalo-1xbet-vhod15-site-xf1bio8tk",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "abngn"
+    },
+    "license": "ISC",
+    "_id": "1-xbet-registratsiia-zerkalo-1xbet-vhod15-site-xf1bio8tk@1.0.0",
+    "_nodeVersion": "18.13.0",
+    "_npmVersion": "8.19.3",
+    "dist": {
+        "integrity": "sha512-1a8qzqmjmqn5X9B7QuPf4xB9ueTAh0/+eQ6LlCnY3jBrXlH/agrRUB3e3gc5R8QlzFMm2R2jceMCVPelrSQc5g==",
+        "shasum": "9b2d9b70da55273d7afce89e29f49a5e5e1a6a3e",
+        "tarball": "https://registry.npmjs.org/1-xbet-registratsiia-zerkalo-1xbet-vhod15-site-xf1bio8tk/-/1-xbet-registratsiia-zerkalo-1xbet-vhod15-site-xf1bio8tk-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5898,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIDIFKPo5wFclcc2PuOpzyHYSvB6He9j0Oct7ffiB9D+WAiBzPN/Kwdyjdlxp/vsiQoaaKSTFxA0/kbMFYc4vvrmFuw=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJkQw9NACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo1LxAAhurxQxjfdQuHyD4tnOg73OqI278YoeSFuR2LLu75/hKGeMMv\r\nbB+kRstn5hUFnZ2O5Dvl7ucFTFR/QfoHRC6A4XlN+GIBBvuupKqqli72r2EP\r\nG2/WroMiSu/+dHtow+0NK6xV+ldkIxiMONNzTEDPbC7m530Y9LQQEPBiALJ0\r\ndcj6f7Su069TukHS3qi6LLEyMFIDV/XCQSYhcx7xz1Kevw1xfD+rOvasq0Pi\r\nUq7mBuD0uHxWknqMct+Bwjhtssur7E1Ju2Hm58TSskZuiAUIHjB8auv+mF/z\r\n5D6M8oqCKdK6WaHIbEqhvts6q6WUxRk98X3NQg6EOxPsAnxEzpi6n0w13Z09\r\nB7cwB6AKnoKBJ0LEyAqPMXyll6eMzxP4qRa2yz4lzALwXvlv6jiYxkejWifr\r\nwulUo/GgrJrpZ6hyRQxJAjmnd0qI8jyNjcQ5rmT+j1Rk7QrROaGN2ikLEO7S\r\nMiYm4g8dMD4as41YUbKfTMmAXH1lESRZWtTZJGPw9jjDFRRNlHjgSi3f2RhY\r\ncc5TN7wLuJibXvpFXhzwrICdhpIsO6CtqYRgBqVoJyTREO3qM4W34MecHIkn\r\no6nthL8tkL0o/MCtuXHo8+j2lBn6ogSVOU2njc4dHVdxt6AehvnM2vLr+Zo/\r\nF+lMJmmxGTz3UeRKPQ+RKERenDZMhcD5cHw=\r\n=CUHs\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "knknkrvhvutu",
+        "email": "knknkrvhvutu@pay-exchange.tech"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "knknkrvhvutu",
+            "email": "knknkrvhvutu@pay-exchange.tech"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1-xbet-registratsiia-zerkalo-1xbet-vhod15-site-xf1bio8tk_1.0.0_1682116428867_0.8161416561002592"
+    },
+    "_hasShrinkwrap": false
+}

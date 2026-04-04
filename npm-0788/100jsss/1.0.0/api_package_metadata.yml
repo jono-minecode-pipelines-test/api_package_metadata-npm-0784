@@ -1,0 +1,44 @@
+{
+    "name": "100jsss",
+    "version": "1.0.0",
+    "description": "100js",
+    "main": "g.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "100jsss@1.0.0",
+    "gitHead": "caf2cb793b8eff400332dc130400c1224f4ca2c1",
+    "_nodeVersion": "20.10.0",
+    "_npmVersion": "10.2.5",
+    "dist": {
+        "integrity": "sha512-XdJRZtNjPON/3MLd3bRgtAwBrKY7HMwatMgU3CiVLR/4RoYw4qHUCddqOPu3y99IVs8e8HKC+JYoFquylpiiwg==",
+        "shasum": "bb4b608c05b87dbd25ec0525b833938a43a260f0",
+        "tarball": "https://registry.npmjs.org/100jsss/-/100jsss-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 348,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICh0Zit9vaj6HB1mvMVkVy7C5sU8ZPlR2FxNMhyR6XyOAiEAlsmwMfiSwnW/ruhswf5AYBIAWOCbKiS0HtkUAVxn4t8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "100js",
+        "email": "airobotdemo@outlook.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "100js",
+            "email": "airobotdemo@outlook.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/100jsss_1.0.0_1702717418773_0.42464545356484207"
+    },
+    "_hasShrinkwrap": false
+}

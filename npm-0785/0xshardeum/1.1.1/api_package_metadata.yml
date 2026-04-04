@@ -1,0 +1,95 @@
+{
+    "name": "0xshardeum",
+    "license": "MIT",
+    "version": "1.1.1",
+    "description": "\ud83d\udee0 An SDK for building applications on top of shardeum.",
+    "main": "dist/index.js",
+    "typings": "dist/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pancakeswap/pancake-swap-sdk.git"
+    },
+    "keywords": [
+        "pancakeswap",
+        "bsc"
+    ],
+    "module": "dist/sdk.esm.js",
+    "scripts": {
+        "lint": "tsdx lint src test",
+        "build": "tsdx build",
+        "start": "tsdx watch",
+        "test": "tsdx test",
+        "prepublishOnly": "tsdx build"
+    },
+    "dependencies": {
+        "big.js": "^5.2.2",
+        "decimal.js-light": "^2.5.0",
+        "jsbi": "^3.1.4",
+        "tiny-invariant": "^1.1.0",
+        "tiny-warning": "^1.0.3",
+        "toformat": "^2.0.0"
+    },
+    "peerDependencies": {
+        "@ethersproject/address": "^5.0.0",
+        "@ethersproject/contracts": "^5.0.0",
+        "@ethersproject/networks": "^5.0.0",
+        "@ethersproject/providers": "^5.0.0",
+        "@ethersproject/solidity": "^5.0.0"
+    },
+    "devDependencies": {
+        "@ethersproject/address": "^5.0.2",
+        "@ethersproject/contracts": "^5.0.2",
+        "@ethersproject/networks": "^5.0.2",
+        "@ethersproject/providers": "^5.0.5",
+        "@ethersproject/solidity": "^5.0.2",
+        "@types/big.js": "^4.0.5",
+        "@types/jest": "^24.0.25",
+        "babel-plugin-transform-jsbi-to-bigint": "^1.3.1",
+        "tsdx": "^0.12.3"
+    },
+    "engines": {
+        "node": ">=10"
+    },
+    "prettier": {
+        "printWidth": 120,
+        "semi": false,
+        "singleQuote": true
+    },
+    "bugs": {
+        "url": "https://github.com/pancakeswap/pancake-swap-sdk/issues"
+    },
+    "homepage": "https://github.com/pancakeswap/pancake-swap-sdk#readme",
+    "_id": "0xshardeum@1.1.1",
+    "_nodeVersion": "17.3.1",
+    "_npmVersion": "8.6.0",
+    "dist": {
+        "integrity": "sha512-xRC81ApGSpV+tjHoTUqiiavZ/gAKqrBVeNAcXXS/Y1ZLCWsyQYB+rHNNeH4hG01fKXJrtDtFN2TiuCgxvxwqNA==",
+        "shasum": "b9f89e021587a85fbd1bfb880f9e5b54b080b815",
+        "tarball": "https://registry.npmjs.org/0xshardeum/-/0xshardeum-1.1.1.tgz",
+        "fileCount": 38,
+        "unpackedSize": 482907,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCJ8AnXPfec1wPsiCFZ0er0+0dYEvN/Ad+/F/btllD3ogIgDxELeFrlNjrIFQeUHEA92uJPOqirsBWPP5Wf7h0s8nM="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJilvUNACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp+kw/9FG/t/vzSrGT6q3w4m0vIm1eCPaZFZ9SP70aIJAKBf4bTWLrW\r\nc1U/EH0yclohIhXbsuByrBX2OR6oY5kaMUCWvCVsxVGc1JWdnPuoeSnhtWfe\r\nDO37NFgRa8w8q264dNTA7BTtpA+Fo8BJEPW78QrrYXry26LzAByEt5T5BRAD\r\nSyF329zUY6RroyHB6pN4zRNUZlHuxW7VePd6xNUbWFuJChFSq3ye6Hut3Msk\r\nKL1O+/FI8eEB71uaklKHOCfoxhqtkcMzyA7yhrMTAFMJrfOmJMnycqai+G6b\r\nMmZwhIbUwJ2t+3qikqQLCwRSgy2Vv6L5mFIcibM5TwLNFJOC5m6UorVP+T7w\r\nsFGFhZSAGSypjzp9xwaHa+f6Hx5EAuNzipJ50s83Q/cqVQZ1PipL/xI4yToM\r\nfy7+jXxN0Mwvp236KTBF5uPJFSnu/JqSXkrBN4H7Jyj+Ltxdk9GIjVUSA4LC\r\nPLn3FtetoHPTUWs0d3txKE4Pri7vfdfCO6ZJnOvjC9o0GYu4t8nvxrK6mHLo\r\nja/vy2QJPp6wXYLTqSo8NZrMiudQUDzQWS5tEuWFkOO4zrL8qZpiaIadUSkX\r\n+MnbiPs6FOJQXgdqDLs5Dx/UCj4UtUI14HSuuzqlSi02JPdnT8lB+Zl5zleo\r\ngmS7jSyrDXDwmkqXswQLSI/fwwqh/t48600=\r\n=nesx\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "0xshady",
+        "email": "shadymod1999@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "0xshady",
+            "email": "shadymod1999@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xshardeum_1.1.1_1654060301281_0.2502034287404604"
+    },
+    "_hasShrinkwrap": false
+}

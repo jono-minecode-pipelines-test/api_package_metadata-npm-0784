@@ -1,0 +1,44 @@
+{
+    "name": "11111111111",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "11111111111@1.0.0",
+    "_nodeVersion": "10.15.0",
+    "_npmVersion": "6.8.0-next.2",
+    "dist": {
+        "integrity": "sha512-dhz2Kg3A+bxMtUqIj3kbNh+NcajRanfo3xka2dgfGIZwEiSR5dNXudGYEb3jkSjkt1B+NLDQ1soJtS0NTdKjrQ==",
+        "shasum": "522a2018d1ebcc76364b292cf8b8dfb16b89094d",
+        "tarball": "https://registry.npmjs.org/11111111111/-/11111111111-1.0.0.tgz",
+        "fileCount": 1,
+        "unpackedSize": 207,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcZwNhCRA9TVsSAnZWagAA+eUQAJFhoYl25/C08zCBrnpT\nLZrU7PJUsjp51/y6TuuwuS1/hImsPlNA8sgiFyxAth6kuxFMlLv6yBRw/+b5\n13z7XJQD9rnO1aUDp+UwfsSdKAKOCCkncGhHgsnLf1Et26BaAlmCh7+3qjbv\ny76OU7z+Kx4+F/JAzwJaSvDIDHa59kdxby01MYHe5KvhoagXM52w9L0FzFfI\nEUBa+DchRvzwNrZkgOuRGv/l72c/4XpEy5m7jdnU+1Q/pv9Au3g7Vr3CGeKX\nytLedg8xWF6TRSMfNN+3CSRr8ZVwomSTRVYhq4TvkE9JkUR4WJFUt5WCFpsJ\n9GSnIKBdD8IF3RSY9P2Dcx+sK0CbX9HjK9eVYystMI5+TzGZB5g6Q+XYon95\nypIomVUhQIU0xU76aTCQweIxggocahWqgHu6VSP1CCiZ6xnc8WBUpTtAJXWC\nP4f3z3AKvUdPVf5eEoU9gweATq3g0bRG92iPwawsODY1e2gpT82/LFx7hSpN\n/jfxC6aXPesCpMzD9BaU4v3ggINKMD679YEi7w7ycXw2czkelYIk+Vy3Kccy\ngQ0ErCzCE0hi4kKz8f6ppcuLF78uZSqsT0ZiVZngOsxxFaEiHGclPOdFBesi\njG624CsK9xRviuI2X42rXGOEvpfKSirKzT1xrcPnQBCiVr7W+p91u8uMdpzV\nrKnP\r\n=qk2+\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIBayJmRGIww8OqG7UJzeB/J1XHrVp29iqR+rXl2OazM9AiEAid8wE7Qz8ybt3MjwpMwpmZ2uRvtR9NG5+UIZQ74G+9E="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "cj_joulain",
+            "email": "cjj@npmjs.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "cj_joulain",
+        "email": "cjj@npmjs.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/11111111111_1.0.0_1550254945485_0.04114180721088845"
+    },
+    "_hasShrinkwrap": false
+}

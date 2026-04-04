@@ -1,0 +1,50 @@
+{
+    "name": "10_10_2018",
+    "version": "1.0.0",
+    "description": "First Project JSON File",
+    "main": "HelloWorld.js",
+    "dependencies": {
+        "express": "^4.16.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Sunil Rai"
+    },
+    "license": "MIT",
+    "_id": "10_10_2018@1.0.0",
+    "_npmVersion": "6.4.1",
+    "_nodeVersion": "8.11.3",
+    "_npmUser": {
+        "name": "sunilrai4866",
+        "email": "sunil.rai@procit.com"
+    },
+    "dist": {
+        "integrity": "sha512-KSs8daMEgGCZJXA6cbFVeW4FA5q65zysi4gUahlqaamXmLys/PXYZ97lJa+CQT23ktuuWpryHBo1xiRRMvNhog==",
+        "shasum": "9b82b97f07723c3f1c4bdb7105470bfd8168cbb3",
+        "tarball": "https://registry.npmjs.org/10_10_2018/-/10_10_2018-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 1087,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbve3XCRA9TVsSAnZWagAAKMwQAKEnv+PhFD76eKA76FJa\n1beceO1+r1uLIItooLXFR30TQ/+8cOudeAdfbKBUOw5qmu69AoYHFqol/Rib\nIinnd8oHDePxvin7YSX4VuVzFzG7QWiJ6VAyXEd0I9GN17HXMGDmLbedzJQN\nXV+yJ1k5FtDW7n1ihuDmZyMfLM1xtE8gCIHHfxDF5+NqbZdu7L2NU5751jcN\ncQbB+PNJ5D61pzaMI7BR0qvEE3/byWIAssH9J6HfV72ExgK312JCE7DKBXhX\nhHRO3PSFDV5VchaYvy/4iRUZGAwJVJpxBK+TbrteqPBKO6q6V+qjJmpispOR\n6Afp7vxOuCtRSTZzdDh8SYZfJ0uYKOGS0+KCrV1bceFoiSGHCedIYbhizEsY\n0B5pH3QJYRl02Pu/dpnOcqbGyNVKKy67pRo7oEwyzzYVFA8KLBSeB/cn6i/O\nCtRx2TUGp6PF5WDp28c7IswNyBatkUplz3Mi2Jmut8kPm5uMFgLq+Y6aOt+E\nj4DWhh2n7b8B4Lw2iUPn1zHBXpch4rInE7NERP3z54nqcRCDlMq33hnGjsmw\n7OVOi3jQ0jxvsQM8l3UF+BCPKJ/VQkSOfj/pdPziPJPIRKq9IJLK/bd+Ddcn\nUD1cKsrROjBzCRFwbS0tXde8STMtPD7GqXYilTZ6upqAynYoXlCDWoVhxXnE\nrk/D\r\n=8H3/\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCiH61i3pkkKcQNnIzKn0CyzE3Zvlx1JKMVdKkIgzmaVAIhAISK/jzFB+uEOY4l2Dabw2sf2iMbH6KUO5uNZyipUE9S"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "sunilrai4866",
+            "email": "sunil.rai@procit.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/10_10_2018_1.0.0_1539173847108_0.8545286864490662"
+    },
+    "_hasShrinkwrap": false
+}

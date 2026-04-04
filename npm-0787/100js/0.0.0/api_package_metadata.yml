@@ -1,0 +1,47 @@
+{
+    "name": "100js",
+    "version": "0.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "onlineabedini onlineabedini@gmail.com"
+    },
+    "license": "MIT",
+    "_id": "100js@0.0.0",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-PatH9/Z4X1cDdewWsbDAqrW2KveUaXLirpZK0pgkFZkCximROPstf6sSE37bOom0SaYems+MZZGaIA77+KN14w==",
+        "shasum": "5d4e73ad8160716f34732eda6d96a01ff56f3db6",
+        "tarball": "https://registry.npmjs.org/100js/-/100js-0.0.0.tgz",
+        "fileCount": 1,
+        "unpackedSize": 256,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICR6fBdk+tF6TA+dGKVguQPo2inr/Fxj9ibe6nCWufrvAiEA8jZxe7l2L/PefApMfjkysiPo1wJQ2UdWc5v9HE4TCbw="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjdVuoACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr/sw//aj1M/HP/BbkV2t+4jIODqg/IAOBLgcU8W3SqzzwV9phXR8Xt\r\nduuRiBOBGSm4cXh7m4yzvXWmesy465993GH1TtNN6p6Nd8pwt6bSq3kwaI5O\r\nOwoVYyC2BejNFemoXBGKEOmVXdshTlXu7YOkVg98ck58gS/iRqS5JgOuvdG5\r\nmz/n6KfgRTdDmCq5PRRZdDzYmhQmgn7kaq2no0p+ltx6JXskjMLqfTFGUAz4\r\nbht1eUlh/WOF59TyzWsr8cjByA4rtDdP9ddHb5gSq0uTknl1zfzgGEz2xyRZ\r\nFz+5aJR/gKJD2xNNDM/FCYcUNgT+t5/l3y9x9ZQ54sjorXr5koDJd42DzXe+\r\naCS4RceBwDcfoiwcb8s1OOv4nVENEbs11oCHFFXDkCVDkeZI8ZEj63JGDyPM\r\nz+oCebDOnwMOEr3ZbZfWtHbtTQcZA66ik8r3P7w9tzXjsFI8yJYv3ETetXcp\r\nlLpN+KFa+bTk7u9DEHcWcG7camCpcBYfOTdQJuVg600tYybG3SMF8wgNRbrH\r\n65n9LmnGT4oVk82jYSsvcjQNhJeKgNnlx6YeMCx0yl5lSBS6XAV9c2bVO2VE\r\n9jZfRGr+L2HYXaj3la1aoNx6Ggb0pucBoaKQt0dLJ610KqAV/I8zPXX/NxzJ\r\ndQy779Ntg+MXuBgI8huFydeZysgcMEQNnqQ=\r\n=pNcK\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "onlineabedini",
+        "email": "onlineabedini@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "onlineabedini",
+            "email": "onlineabedini@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/100js_0.0.0_1668635560785_0.11676416347790064"
+    },
+    "_hasShrinkwrap": false
+}
