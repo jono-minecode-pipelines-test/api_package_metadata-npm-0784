@@ -1,0 +1,47 @@
+{
+    "name": "1901aaxios",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1"
+    },
+    "_id": "1901aaxios@1.0.1",
+    "_nodeVersion": "14.14.0",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-dnG7JrfWrbuqAxHxBroKDogOtpWv4mui8tjck3B0Na2lVP5ZW6rlD5iPsy0aabygxIGmmWTFcxggfTkvj7nSqA==",
+        "shasum": "706415cb27ca0478582ca7f0775d95ec9984522a",
+        "tarball": "https://registry.npmjs.org/1901aaxios/-/1901aaxios-1.0.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 1095,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJg7pJUCRA9TVsSAnZWagAAxxYP/1NCfKv1La5mHWtFLyEA\nF7RCD73/D+vk//fn2o29xnxoDLx3oz1iV5R8+fWPa8zlivzqtb0OnX8YyvOe\n0jmmImYQZXwOAo/dl/R9jHxMHa//gbMaVWH6EgFQrc8ObIq4Ztv7JNdJPxIy\nwH3SxKkm9XWXTB3c7EN2fEa6bc11yKsOjuwH+uiMPOtT6wV2M4v08+UtKm7S\nt2kQrNysoFrRnyZW7b0PB8/eoENLNZW21qkeJ5f0EqoIt/R0P17Kw+vbIPXj\niu944aqbjxWWhVlZDS6zsWuUZusyrlO+URmNs+EwYmr2ClMJ9wJvht86Xkt4\noyTksImySUYznskBccArimLl0yjLSCZ/YoGTWTDuAzXRi8P/g2yewhPWhQ5E\nBKuwMx1+sg5ge69bOLsryJjEEZ/HlbWjoJjncGOy1+CqGDWriV46hlCPuMVc\nnihNEZAjl57gjRe8GRVhHrsUGH3uC5Jy+3Gd5pW4s1DsEdQSkB1wI3xzBX85\nRHN4k1AZ0NgjJ+xLq/d9Ht0YymZ3vvm3NjczWL7gIWc2Js97VUP4CpstU3Yl\nio0prBta0dYX59x8izwLb4rCSFZaSwZfFyqVpnir+w2oYeGLFW/CzhKv3LR+\n2qy0NFZ7mlDMvtu6Nb4+dMO8PNYPYb7GB9CxXj/V6yXXx1n9c5XD/4SGfZqw\nxXql\r\n=ZppO\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHBtBKvihH3E/59J3m4Y/L+ofO1FMoA/QVkqHy256JY3AiEAv0R6JWSTfBpBjAsiA/+w3Z7sWxaRwphK7/Dq6ncE5WA="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "yxgang",
+        "email": "18247113351@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "yxgang",
+            "email": "18247113351@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1901aaxios_1.0.1_1626247764183_0.7182208602136526"
+    },
+    "_hasShrinkwrap": false
+}
