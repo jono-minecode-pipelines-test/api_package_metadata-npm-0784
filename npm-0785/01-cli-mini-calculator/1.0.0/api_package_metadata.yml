@@ -1,0 +1,65 @@
+{
+    "name": "01-cli-mini-calculator",
+    "version": "1.0.0",
+    "description": "A simple calculator with Typescript, Node.js and Inquirer",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "01-cli-mini-calculator": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/github.com/Fariha-Asif.git"
+    },
+    "author": {
+        "name": "Fariha Asif"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/github.com/Fariha-Asif/issues"
+    },
+    "homepage": "https://github.com/github.com/Fariha-Asif#readme",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "01-cli-mini-calculator@1.0.0",
+    "gitHead": "2f515fdf05e5cb0e479d2a0dd3432fdcc0df0fee",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-k2RLD/nREQvHWSyBqYVdCtx+p86WFcDTVw8jElNy/rXcR87Sh5fn427SeepYmKZ7AwxThQUtXvKEIibCNvPsww==",
+        "shasum": "98a67c8d31392eb98c461681db3f1e6d56755693",
+        "tarball": "https://registry.npmjs.org/01-cli-mini-calculator/-/01-cli-mini-calculator-1.0.0.tgz",
+        "fileCount": 5,
+        "unpackedSize": 15900,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIAVcFGARgSJL0TO14A2oh1HqdlUT9Z/jyFs6IUwMLoxAAiBrcWiiSikOI4odws89ADe8Yhdt9oXpZBN7mDSDA+FL3A=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "fariha-asif",
+        "email": "farihadua70@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "fariha-asif",
+            "email": "farihadua70@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/01-cli-mini-calculator_1.0.0_1710921555894_0.17649121686012448"
+    },
+    "_hasShrinkwrap": false
+}

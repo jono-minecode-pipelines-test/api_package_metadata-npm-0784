@@ -1,0 +1,47 @@
+{
+    "name": "03---use-smiley",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "my-smiley-roman-fesunenko": "1.0.0"
+    },
+    "_id": "03---use-smiley@1.0.0",
+    "_nodeVersion": "18.5.0",
+    "_npmVersion": "7.20.5",
+    "dist": {
+        "integrity": "sha512-NNGALo+gQWDCOfZhpVTEZVeN85EJRCanNDoO8aGQZNibR/70EdnMrao6k/nNDTzDI1K8a9vEuJf/rvGfOBS1zQ==",
+        "shasum": "0dfa54e32475d79ca46a6f3b2c1b2021363b0ad2",
+        "tarball": "https://registry.npmjs.org/03---use-smiley/-/03---use-smiley-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 359,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQD37lrovurPisF5NK0l81qFsCwvfc8QRVmzM/TD2++2JwIgfysAZ2szVBGNDF1IVelKJJ9J2papCi+wHxVPLJS7S/4="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi+Sg3ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrEGg//Z/uSNYd1t3Y264RgaXBJ1L9m1/dAj6rISJtBGO3Vqo4SeRfa\r\nUcmfX9MUc8XDC6zhuPnK36QW9RBIT5xiNFwXp2ajlB97e6VBXJP3uTBc22rJ\r\nVslRRPl1BMXDZNUtajMVhaGDZ19X/RhNX7GlHHCPaLsbWAuct55+YMi/O4if\r\nBokdaW6LtbKE1sw0A6jS0bUKJgcdf7ctXqf4oQZSX1kkFuV28kjz16pLts2o\r\no1sFfsMw93munCNTSLErrj4MjGKU0InhSfghnvwM7tWunarBQ6oT+lqsGqMA\r\nkdQHRQ4I54NxuCk1VwIZxzqNJeeTn2F12YBYW/ks9RoGwKhwddJ2J1OQGrWS\r\nX88pI7f+b8pJsNV6FJmjNPOB5Reo2CX4A6EVHm/vzHWa7mDdJon7iURShXR8\r\neyHarvK/03RecoIQqbXisfVE127LdRV2O+nydSvvLGIT/CDJNrB5VqBQGAVh\r\nnck+B2mVwXjbI0ARyKLndksVEP+r3j+aHJR6GsDdkmbAfOBsE5botEikdDd0\r\nOCc7/ub83OpxvINdhmACEwnqmM4k+rbOAesnCMQD9n0g/mcQP+5AH0rTVVE6\r\nMZ5GxjMf5fc2yd+WouDsk40jTUqn4/bBdHp+zXtbuibIgwLYlU1y3FjCYGxB\r\n+Kg8coNI3ZGGftF+XoRbplBDW6NJczfa8yc=\r\n=WbzL\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "irron-roman-19",
+        "email": "Roman.fesunenko@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "irron-roman-19",
+            "email": "Roman.fesunenko@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03---use-smiley_1.0.0_1660495927471_0.33337997039321765"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,54 @@
+{
+    "dependencies": {
+        "inquirer": "^9.2.22"
+    },
+    "name": "05-am-mini-calculator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "05-am-mini-calculator": "index.js"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "this is mini calculator cli project",
+    "_id": "05-am-mini-calculator@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-5syHeYMVN2E/lwhxP6RP7mlKQn8CR3r3zVwasj1Aet9xkDfoyayo6cFrKGD23uCCm+diuWeaeWjPE5pX4CpWPA==",
+        "shasum": "e5be2bc128084b0231171bfc2cb3c74f30a07760",
+        "tarball": "https://registry.npmjs.org/05-am-mini-calculator/-/05-am-mini-calculator-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 15990,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCsXhWa386TiwDURSHw2sOpyxfRv4VMGWAqFkzCy8UcwAIgQ22q4Do7cgZUDlNaqJ68z8/SXJU1/9wHKPxZruF+jZk="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "aqibmk",
+        "email": "aqibmehmood1847@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "aqibmk",
+            "email": "aqibmehmood1847@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/05-am-mini-calculator_1.0.0_1717310925725_0.5835347608315755"
+    },
+    "_hasShrinkwrap": false
+}

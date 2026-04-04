@@ -1,0 +1,44 @@
+{
+    "name": "05192003b",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "_id": "05192003b@1.0.0",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-LVQZ4cXy9j3EeP9jveUGLW++NkymQcAfo1MUrpj6uikJ5+6yvpu/QPaes0gPWnE8y4con4dZAUybnaG+TiO1/w==",
+        "shasum": "5a906b74cc290f63133e30d53793a945efefe212",
+        "tarball": "https://registry.npmjs.org/05192003b/-/05192003b-1.0.0.tgz",
+        "fileCount": 5,
+        "unpackedSize": 414,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBCbO5JIGeMrP6DkxONdbseFuEj7JMggXU0KvaqK5Ic+AiB/isaA28kkoifeb4s9GW4HfNAM68Lw0Q+vxnHeeIdTTA=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiheK5ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrhmQ/9FkakVai6PGy2RWpBYT7jc1ikhBoeJjPlqRuVyRSyL7YKI6NF\r\n4wWYIH76pNNZBZ45ttYn+ZkPSEfUTbiEcYGMxbRhMGZgebXy8+gi/YVPASMZ\r\neQpKC+AU7/t8HRj+Y4FPVc/p/QxWZK2ikTFtgtZ806hb/jzqsQGakifBOVcY\r\n08Y4mJiz0vAixfCxvfodlLPbMhPPxiOOuUmieeOB24j5Y07ubgx6y8TCCoJ0\r\nrmoA1zhWB4Y83DtbR/A8pV5vHIbLbsdM6Ap2YV+iUjsw7RBsRCN2LbUQSmW8\r\nQ1Z2/fh3GA8SH8CDbXSgzfxA6iz4klByyU+kVyFLEwL4QcjF6s6Vo6Pl7OUB\r\nGs5a5TEd68OyiCsF6JHjdAkq+iZkHCmqIH39U7cGODkxNJMiayA9jUVnTwfV\r\nGsAIsHzjVsNt3nBv+6CtCmX1iJhqWmTWQyl1VI7h0v3e947UHY3Nsj45V1Oh\r\n9LO8aGhm2/TLCB1ZHYa+wt/+wb9izvypixYP+3crPyN3Vq/cmeujEKmLzEed\r\nUK+/Yfxn4txRcLn59AiC+uDRpgzZ0LHQluLNrO3eC5x0hNYFxxdyb7Xmz7cR\r\nIVvL+thOwlZavn6E7/3zfVNDMn1e141mRnNLpQh+bVRzZBx4B86Am772w/2p\r\nkQHlGigipXqKg+MKiPQCNFQ2ifAsxTJp6bE=\r\n=21/R\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "diaoyongqing",
+        "email": "1030062995@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "diaoyongqing",
+            "email": "1030062995@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/05192003b_1.0.0_1652941497311_0.47750593591240964"
+    },
+    "_hasShrinkwrap": false
+}

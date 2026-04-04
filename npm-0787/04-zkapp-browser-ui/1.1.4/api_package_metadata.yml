@@ -1,0 +1,59 @@
+{
+    "name": "04-zkapp-browser-ui",
+    "version": "1.1.4",
+    "description": "This package is a powerful wrapper for Discord API v10, designed for easy interaction with Discord functionalities including message management, channel operations, role handling, and more.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ramdani87/04-zkapp-browser-ui.git"
+    },
+    "keywords": [
+        "04-ZK"
+    ],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://github.com/ramdani87/04-zkapp-browser-ui#readme",
+    "dependencies": {
+        "04-zkapp-browser-ui": "^1.0.2"
+    },
+    "devDependencies": {},
+    "bugs": {
+        "url": "https://github.com/ramdani87/04-zkapp-browser-ui/issues"
+    },
+    "_id": "04-zkapp-browser-ui@1.1.4",
+    "gitHead": "8dc6a4ae68a8ced71666fd38a1f892255760d3cb",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-51gSOwdajY29uG9rbMd6L6/XleDI21H3YriXhT1Rh/R1G4w3BgLdghv1EIK+lRdH8Zlf1QFjDRI72pXhAUHtRQ==",
+        "shasum": "e1072d6bf9a1df235f2d12e07df10dc91767f485",
+        "tarball": "https://registry.npmjs.org/04-zkapp-browser-ui/-/04-zkapp-browser-ui-1.1.4.tgz",
+        "fileCount": 46,
+        "unpackedSize": 1074475,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHx4qNTChDuq9rqnuqHJid4HTiFlLTS9gPb/N+vOIICuAiEAyRwhpJHObjR/epPSOMbjT0nVu+lp6jnVXCzx2UD8V18="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ramdani87",
+        "email": "redditramdani@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ramdani87",
+            "email": "redditramdani@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04-zkapp-browser-ui_1.1.4_1709901441349_0.9520755775657206"
+    },
+    "_hasShrinkwrap": false
+}

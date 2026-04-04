@@ -1,0 +1,43 @@
+{
+    "name": "04-zkapp-browser-ui",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "04-zkapp-browser-ui@1.0.0",
+    "gitHead": "6324ac6ece45ca2d0718b55ad33c00c50ba11ac7",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-m5Kq6ysDg0UuOV49fdyt6pbF/+AMXBz3ILkOKexCw1FVlfQisNwmEntfwJTFfl9g+PXgF+VRzoVpl8ApEyAA1w==",
+        "shasum": "84fcc79f54493d5c858689abf7723e1782139fbc",
+        "tarball": "https://registry.npmjs.org/04-zkapp-browser-ui/-/04-zkapp-browser-ui-1.0.0.tgz",
+        "fileCount": 31,
+        "unpackedSize": 853788,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIFtXS9B6fgei6utx2qHuisqYwlWj8HT0HACEiFJRqZTUAiEAiXwWuZd0rkkTt+kK7qqAJXUzJMHmICPYSdNW8SFl/ZQ="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ramdani87",
+        "email": "redditramdani@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ramdani87",
+            "email": "redditramdani@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04-zkapp-browser-ui_1.0.0_1709490864729_0.7535541868085813"
+    },
+    "_hasShrinkwrap": false
+}

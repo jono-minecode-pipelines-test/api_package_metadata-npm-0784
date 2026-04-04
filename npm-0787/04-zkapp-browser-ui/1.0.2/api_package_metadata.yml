@@ -1,0 +1,52 @@
+{
+    "name": "04-zkapp-browser-ui",
+    "version": "1.0.2",
+    "description": "This package is a powerful wrapper for Discord API v10, designed for easy interaction with Discord functionalities including message management, channel operations, role handling, and more.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ramdani87/04-zkapp-browser-ui.git"
+    },
+    "keywords": [
+        "04-ZK"
+    ],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://github.com/ramdani87/04-zkapp-browser-ui#readme",
+    "_id": "04-zkapp-browser-ui@1.0.2",
+    "gitHead": "8dc6a4ae68a8ced71666fd38a1f892255760d3cb",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-7XcnrdkAivPizMH1GfEtk5yCa+ymIG+JkGHvlMHvWGokqi9ONpX8Q+d0MoO9AVzTJdIdqruf0liAKFOb0EOV6Q==",
+        "shasum": "dde9c9a3162077fd44cbea605024793dcdb4ded0",
+        "tarball": "https://registry.npmjs.org/04-zkapp-browser-ui/-/04-zkapp-browser-ui-1.0.2.tgz",
+        "fileCount": 46,
+        "unpackedSize": 1074382,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIEzmPSihgYwXrXAW1UUZnTuEB49SNOG6/h601h1avns2AiEAk+JQSuYnEZJzsfpxN0HeN4kSA3afG47VEXCsRyypVyo="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ramdani87",
+        "email": "redditramdani@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ramdani87",
+            "email": "redditramdani@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04-zkapp-browser-ui_1.0.2_1709818720866_0.23033927289717981"
+    },
+    "_hasShrinkwrap": false
+}

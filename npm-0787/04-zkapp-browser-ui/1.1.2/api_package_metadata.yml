@@ -1,0 +1,51 @@
+{
+    "name": "04-zkapp-browser-ui",
+    "version": "1.1.2",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ramdani87/04-zkapp-browser-ui.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ramdani87/04-zkapp-browser-ui/issues"
+    },
+    "homepage": "https://github.com/ramdani87/04-zkapp-browser-ui#readme",
+    "_id": "04-zkapp-browser-ui@1.1.2",
+    "gitHead": "6324ac6ece45ca2d0718b55ad33c00c50ba11ac7",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-YlyzjVLfjSdSrmIVa8IrMPC7rr7HpETgmFRFXLFFr/TCJz1GuiXtikCmD4Aq4i8Ps4aG3hwzzpGLrwpRRJtaJw==",
+        "shasum": "10ac910f602dbbc6b12833adae54ece5411c5bf7",
+        "tarball": "https://registry.npmjs.org/04-zkapp-browser-ui/-/04-zkapp-browser-ui-1.1.2.tgz",
+        "fileCount": 45,
+        "unpackedSize": 1065885,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCYlvG6+LyDJ1ygWX6Y0lYU72aET+Nsnc/DgolPVflURgIgVON3f0UV5lC5/lIC0wgJu43ObBPmeiD/xamWEs2lw5I="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ramdani87",
+        "email": "redditramdani@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ramdani87",
+            "email": "redditramdani@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04-zkapp-browser-ui_1.1.2_1709492100861_0.6034336840912429"
+    },
+    "_hasShrinkwrap": false
+}

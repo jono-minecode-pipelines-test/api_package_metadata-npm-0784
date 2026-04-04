@@ -1,0 +1,48 @@
+{
+    "name": "03-ahao062",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.21"
+    },
+    "_id": "03-ahao062@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-pZ7dMVd3L/h3IF1KCjs1L0YP2yIAcuQ+CXq9EMjGFt9aP4Tv1KiVCOWwU664hLrPjS6qNhJezNNbT/DAMXo10g==",
+        "shasum": "5a3161fb812326c5c6cce0d174b62bfa4e6c2c91",
+        "tarball": "https://registry.npmjs.org/03-ahao062/-/03-ahao062-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 408,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJiDbR6CRA9TVsSAnZWagAAg+cP/2hMnu2Ks+wwN/Inh7HC\nMbMfQKO88l8py3UVI5d2EW24KKUp/UKyPGZwsEs0RPXW8eqkm8j9OS7e9GHh\nxndCZchDJxvqW6khrT2ezfUpZe5Z8I9L2z+UT/R2fYhi0kho7DreesOseDg7\nJQBjtW44tWuOpADzoOI+i+kY8HBqv1zdnjuFEqDQNi88xnQXUGCUar4vNVvp\n/Cg2r7gjF1BTHRzAi8IIb5feOTSy+my63ioLnEAAXbigSxrOvvvxeCuLmEOW\nxR7hIPR0E5oARwfTXGLXWa8obJ09gDN1iTBoAcU25M+QBfaj6U9KfEuVFda1\n/adRiDB2+n5wv4BXrQDDhHgkKbAcvZJRNPUudBuUucvi3kjQzdy44DzgvRAh\nciYCyDVu44RfhdD0dD7nla3PcCBtDtyMZG0fSehuwi+I2rJ9jX6mdYQOmW4y\nU71K+0peaINa9ty3MiOjRWdDU7bFWIFw9XwS1IfjbJODXichxKYZxImk6R35\nWWa6E1GQIPOmFLzGXoEeA5zcH5qASoa8gbVI3gCtQa67/yTIgDyvhSRdafps\nJKhWcnnY1YJVWJBg0lpK9v3s2/d/13EzBhUodsubrUYQ6gyg9L799OYCPiBd\nSLniyXkKq6LrVZRLMv+8MYqM2wiB3cTeeKNGHfjIj461ZHLFHVeoycxJonWd\nwCtD\r\n=JfJ8\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQD/cDNUtk1h5rHDFomzQSbEQg+x1NPxWoDkmchKWVI1wAIgNZjBVJLyY6pFwRMQEIISYc9uoCbGXPGkmJY1vRQC0LY="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "lh520602",
+        "email": "2425123729@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lh520602",
+            "email": "2425123729@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03-ahao062_1.0.0_1645065337887_0.27212336542911486"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,48 @@
+{
+    "name": "04-17",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dayone.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.2"
+    },
+    "_id": "04-17@1.0.0",
+    "_nodeVersion": "10.16.0",
+    "_npmVersion": "6.9.0",
+    "dist": {
+        "integrity": "sha512-c4MNohR+TdX14YGV3rG0igKJMYf8s37oGe+A4zpI2ow4zWILmDDXCTLpRANUh6uoTokX4b7Cm5DDW1TiaH+SuA==",
+        "shasum": "98a182a28123e5f190ac3d86287245a390b9cdd0",
+        "tarball": "https://registry.npmjs.org/04-17/-/04-17-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 310,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJemWoECRA9TVsSAnZWagAARbkP/RhZlJEC+m++7R5Vo/h4\nn702WiBGklPWgEhEJiWdbjiqEalqwrGWqnBRIGFzZj5kfs4wjSLo3tLc5gDg\nKcrn7SubrQJtv5GQZ09BXOHi/1z0FCMQKGBMzJstmSTIkfujRiVCN9XqsizH\nYSiga7QrXjCpaMKKct5rzauUrNUyI8Lws7t2QYsC1OVPCI35Y0kN62uE/XVR\ntdri+BHrgRxEXO0uzt4NiK9s0/fl/aXFnqilZFkuGryLJjCVnLBJ+XXJTYbz\ns+tnSw1PIQkULE5DWCSjJucxPWoR7Ot/m1hQgR5Y/oDtnbcUbxQE+z9Habou\n+4MVGxa1QgXEZuMWvQuqQrVU350KjOeUjCbDD2elra9q3SvbbyUO1jrf8Abh\ncFJzVGTbtEd0tJw0v0MDY3THqjYpjXUvPMvVT1OFOFFiHMux1wg63bM6HxvH\nGS6TlASae+T2FpgHFG3y/XKZwe912lzTdC0dV/cqk9xX/gh2UZ+f9efr+8nq\ntTOFhJkXBvOFLpMkl7oenhPu+MdeF5wCGJ3btdB4+hTcqNGv0ztc1pBBxDTl\n/9HYqEE7iRuyRHfNN0SZxK5dLZGIRfTuCV1pdUv1D84TEp1nRK4yXo8iYuk7\n4Me/8nyfVOZqfrPfrwR8lmDgotiBWefS4fK8s3u8cfOIN76KAcXKR+J23VSK\nbFq0\r\n=RaF1\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDrLqNTBaAx6FpTWqso1qs8/fx8jCrzCZhbOz2etCyEXgIgJ43fIPkK4QfQMPNGgwZ2s4C7tU072xbjgcT4Hg5tpKE="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "wenruxinya",
+            "email": "709163799@qq.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "wenruxinya",
+        "email": "709163799@qq.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04-17_1.0.0_1587112452027_0.9772688029056384"
+    },
+    "_hasShrinkwrap": false
+}

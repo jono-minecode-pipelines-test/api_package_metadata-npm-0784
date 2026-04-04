@@ -1,0 +1,48 @@
+{
+    "name": "03-custom-chen",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.21"
+    },
+    "_id": "03-custom-chen@1.0.0",
+    "_nodeVersion": "17.2.0",
+    "_npmVersion": "8.1.4",
+    "dist": {
+        "integrity": "sha512-+Enf6HEhAS2PatzP3eZUPufEWcRSQYqhxlDRU/99+BIZRdmUzdHFcdSXAjg+0u3D0w2AyzSA5i/gg7N+zPpZRw==",
+        "shasum": "4b1caa9849d91e58b4277c36e286afb0adf807e2",
+        "tarball": "https://registry.npmjs.org/03-custom-chen/-/03-custom-chen-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 601,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhqMkwCRA9TVsSAnZWagAAN7oP/AjAcMzKVeYzNIaLR4x2\n8xi7o8V3XULfX47neW0wzjnwMdl/p+eWf9J9swoL87XEuDUN6MaCAXLro/wK\nbsaVL4eEOF6qjEOtjN+elUFBB6ZkoaBAFzy/r5Awi0IK7fppc+HPso0HbqZ3\nUaEbOFR1tugo7pEQShfk8DFxwLxzk6KduOQOw32c1v8ktQVAq0XSHpV89Nt4\nd53gzOc2WE++y16UXeLTTWn6bZ2CPC5ZDXjShIprkuYMNEl8K1TAj7Ng94Tj\nRvWXcRWjJRTK7P7l6Ha5Q+zzGjhq2LlaKHK4tjKS6sn6OMbcSVrKcVoMYheA\nJVTgAqqlcR+r8zSdlGOUpGa4d/hpQzWzTYWUXHYLqiCC+B2hCBERJ6rdPYaq\nmnkqNbINCMPmFo1nOrI4O3kMauXnN2YLJuYZvIcXBVs3LKVQWiW9BH3dcXej\n9uqbf34Nn2hR28Iqo0e7ZEfZrx95cnQ/J0rfNqJ5fPravxBkvpasFbEmnn9G\nl95LWPc//M1MPh+6XcyGKeJNrbaLnEt6Kt2xbjBIfB1h8htDMQzzlkh5+M9T\n1UryCUKoIax+1Dl4a7MTEOCP0hjLG5XGDO/uKHVnj6X+wME9tR0Z/RuWgPAh\nyWJtyz03r+RES+0cQpcecl3WpG4D3aCCO5QVZ88IcpP6wCiduvrYSENaEl66\nq2oV\r\n=lZEo\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIB1G9jLsrUuXR5n/TUsKDQQlzj4Jt43ZhpVCvVfHbTt0AiEA2/a9x0iDTvTpNVDEjCzYIe7Sjg9mokyl4PUCqor1NW8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ccc17819153458",
+        "email": "2903989297@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ccc17819153458",
+            "email": "2903989297@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03-custom-chen_1.0.0_1638451504002_0.8145300914524669"
+    },
+    "_hasShrinkwrap": false
+}
