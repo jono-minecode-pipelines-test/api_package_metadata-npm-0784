@@ -1,0 +1,59 @@
+{
+    "name": "0scar_classm_ezn",
+    "version": "1.0.1",
+    "main": "index.js",
+    "dependencies": {
+        "mcp1": "^1.0.0",
+        "mcp_02": "^1.0.1",
+        "sum-huukhoa": "^1.0.5",
+        "sum-huukhoa1": "^1.0.3",
+        "test-airdrop-khoa": "^0.1.2",
+        "test-airdrop-khoa1": "^0.1.1",
+        "tong-huukhoa": "^1.0.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "mcp_02",
+        "mcp1",
+        "sum-huukhoa"
+    ],
+    "author": {
+        "name": "mcp_02, mcp1, sum-huukhoa"
+    },
+    "license": "ISC",
+    "_id": "0scar_classm_ezn@1.0.1",
+    "_nodeVersion": "21.7.1",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-moBCccttAW7wiWRTeYOTYfwYSRSGpNABsb4/BJXBoMo55PEmSBOf3+hzrOAwhptkJ5crG1yAdUYN3C4bL/EKxQ==",
+        "shasum": "f6f1ce3aad2f3d8d11156e9b7daab7605177b55d",
+        "tarball": "https://registry.npmjs.org/0scar_classm_ezn/-/0scar_classm_ezn-1.0.1.tgz",
+        "fileCount": 32,
+        "unpackedSize": 6593315,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIAEWKCU3XvhAHVbZvOQV1oe+gE9eW3tFwlPnvogM32o1AiAXFq45Wmo/uF/XtUJWJbhM7GY0fQeEBCMSFA2g4e3q9Q=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "doanhhy",
+        "email": "cuongqtm1993@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "doanhhy",
+            "email": "cuongqtm1993@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0scar_classm_ezn_1.0.1_1718709759541_0.13069311487324553"
+    },
+    "_hasShrinkwrap": false
+}

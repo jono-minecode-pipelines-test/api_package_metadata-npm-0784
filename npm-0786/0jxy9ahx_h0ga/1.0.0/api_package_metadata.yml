@@ -1,0 +1,47 @@
+{
+    "name": "0jxy9ahx_h0ga",
+    "version": "1.0.0",
+    "description": "0jxy9ahx",
+    "main": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "0jxy9ahx"
+    ],
+    "author": "",
+    "license": "ISC",
+    "_id": "0jxy9ahx_h0ga@1.0.0",
+    "_nodeVersion": "19.8.1",
+    "_npmVersion": "9.5.1",
+    "dist": {
+        "integrity": "sha512-NtOPJfwXUaiHw3o5hOTlMH7WXAoXHpZ/KKcZPDeQf7Y8lQfg+tomPdZ8ijjPm5SrSFb5uu5um7AgyX9BvbUC9A==",
+        "shasum": "7b75ce696ce69006bf62873a6a8d4989e9a4acbd",
+        "tarball": "https://registry.npmjs.org/0jxy9ahx_h0ga/-/0jxy9ahx_h0ga-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 2133,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDToJCQ8ONAo4GGpSuDGylBL9wfoCzFh7xpqRZeuSoybgIgIfA+AMLJHXHIvHL/Ou5iaDx67vK/AFdozO9yt7DQTgA="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJkL7sEACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmozAg//Qa05tciI8uKuOKsgGHjGUae5VrhSeVLXpoitKkguz6syGjPk\r\nAO+GI0u9mA1L5bN4F6lz/SGm04NHKwLl38Ww69jWKial04SOT8sHkv+Z3ybI\r\nc2tvDuJdooMYVD5zyB5BZ4yjlumbjjfxcARQ2DIFIpQhmk58tLJ9sCjaDvzv\r\nbbKJ9Wzyte6LOzCz7OdNdACgEPhmLDg3r0pDbsABYGaTL1nx5I9An03r5E8f\r\nHoTpRbR6xNRPeG/hGPqALNf+5RBN1Nv06kHqsiIsbV20lY9KDMhNaNsrn9Hm\r\nNAj5H/NOltDa+l9CY+t31cdMKsXmaie5DlTa9R0h7jlRbnTWP5GUnpJAfvP6\r\nDgxnGtagUXjqL3D2nwSZ5duHpoX1Ya9IgY69Dd8mCxAckLY3edbK1s1CD0g7\r\nZTbivfaBFKPdj6XxUnv+3SmHR3tIMVV3HpG/a1okNQssmcCY2Bmt5ANqnyjD\r\nM4daKRRet8IvZR58YsWF02SNsCPs6NMymcWrlCUvpdrqwmVKdUHixsR/c7yL\r\n5wQLkkLXk0hC4DRQ4x73wcFNa4i78vnBHyH1lWl9S6pM4co/5tvqmE0LRvr7\r\n9xzkesYXDwfyBJ+khX/25+44+8Hz9aRd9uEcN1YetManVjD9ca/oXLzLXmLD\r\np++varHcCtXMmI578+jKqxHmONenr00anYA=\r\n=Asjo\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "nitagastro",
+        "email": "EjuyubotimB@mail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nitagastro",
+            "email": "EjuyubotimB@mail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0jxy9ahx_h0ga_1.0.0_1680849667881_0.30331931489195485"
+    },
+    "_hasShrinkwrap": false
+}
