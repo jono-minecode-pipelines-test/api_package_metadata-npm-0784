@@ -1,0 +1,71 @@
+{
+    "name": "1command",
+    "version": "0.0.0-alpha.1",
+    "description": "One cli for all project needs. A cli that does basic tasks on any project.",
+    "main": "index.js",
+    "bin": {
+        "1command": "bin/index.js"
+    },
+    "engines": {
+        "node": ">=12"
+    },
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/technikhil314/1command.git"
+    },
+    "keywords": [
+        "cli",
+        "build",
+        "clean",
+        "test",
+        "start",
+        "1command",
+        "install"
+    ],
+    "author": {
+        "name": "Nikhil Mehta",
+        "email": "nikhil.001mehta@gmail.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/technikhil314/1command/issues"
+    },
+    "homepage": "https://technikhil314.netlify.app/docs/1command/introduction",
+    "gitHead": "bd92a38fab9444749d1ca9d2920beff363c42c38",
+    "readme": "# 1command\n\nProject based aliases for streamline your build and development flow.\n\n# Problem\n\nRight now when you are about run/build a new project you have to do the following\n\n1. Look for what command starts the dev env\n2. Look for what command build the project\n3. and so for install dependancies, clean project and many other tasks\n\n# Solution\n\n1. Add this code to your favourite shell init script\n2. install 1command using `npm install 1command`\n3. and then run following commands for each described task\n\n   | command | Purpose                            | Supports                     |\n   | ------- | ---------------------------------- | ---------------------------- |\n   | install | install dependancies               | npm, yarn, pnpn, lerna       |\n   | build   | build your project                 | webpack, vite and frameworks |\n   | clean   | cleans your build directory        | webpack, vite and frameworks |\n   | start   | start your development environment | webpack, vite and frameworks |\n",
+    "readmeFilename": "README.md",
+    "_id": "1command@0.0.0-alpha.1",
+    "_nodeVersion": "12.22.10",
+    "_npmVersion": "6.14.16",
+    "dist": {
+        "integrity": "sha512-tm/mE1kYTkVpJXDiXd0ahOz2Qfgcu2GD/0pl6aAl91a2O78cFbM6vZyBq+j93SOTsJzZEQBO2GshX1ljdzUspg==",
+        "shasum": "b18c6d2ea0b0adb170b66ac95a33a5484a9af595",
+        "tarball": "https://registry.npmjs.org/1command/-/1command-0.0.0-alpha.1.tgz",
+        "fileCount": 9,
+        "unpackedSize": 6322,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiLjkSACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpkuxAAn6o1vE3DYiV8wwYJ1s1dke5+ec2LQX1lhHsWrash+OmKezDo\r\n3tlcCAgsHrRufRyPtC6ZdcyBNzXtanlnXy1lELXaOv/UWZ5qW8RVVRO42WNu\r\nYT9+4/Ev8J26IG+y2JINrEP73n744Ln3Ci4J5zTZb4etKuqnNjAN+bO/DiPI\r\n2ou8p6275SCXH/NbEYSFpxpCl+BQoTH58+wktXbqLl5aF+CJHeDC/Bm1iQWV\r\nHrf8Qxd4/0WCcYjDFTt5JR7cw4kNLlnr+uVDG4hoWH8TaG4xyOddTgqWCGbh\r\nVhSdnfMcqt6OBiwE/Jk16Tncw+e2MtSjX3l1+QcrEsRaVDDh5HTcqEeaT4T+\r\nIWqAWlMXSwvKEsgMB2VU6BE7P268MulhDm0qYQQP4z+4jfk8c+uzROROAuJw\r\nLSqEoJiS2NiWKhd+Gv7WNyUre6s9JbNj0fnOnIqUw+JSgTl7ccN/8lSkOvmP\r\nQJbVyk0KFrHvYc2seWryEI31hkcYy9eQpl0Y1hnwftUEf3LM6Suf0STGISfn\r\nQvhL3JlsT3hrDWf1lyBs7jku8FS6ehn/Fg8Kg1FXaWxsbJOkOOE0+ZS14Jqa\r\nlBba+XRdGDd/gJIp6+d5DaybpbmaIdn+cbmUWnTu8R6wraUCVnskE6WWehSU\r\nd+KIWAzLICkSaK7HaWXllE+lTtO/9Jdnolk=\r\n=n0Gt\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDCdeeevV9fe/msRo0AGVX0MljCk1/4hWOFFOAy+wmvwgIgEHVXdeY9E16zCDE14LUiLhZArCpbbRonfrg5BKT9yAs="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "nikhil.001mehta",
+        "email": "nikhil.001mehta@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nikhil.001mehta",
+            "email": "nikhil.001mehta@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1command_0.0.0-alpha.1_1647196433907_0.24175271411957389"
+    },
+    "_hasShrinkwrap": false
+}

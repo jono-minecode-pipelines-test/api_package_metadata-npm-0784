@@ -1,0 +1,66 @@
+{
+    "name": "1matrix-wormhole-sdk-evm-portico",
+    "version": "1.0.1",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1matrix-wormhole-sdk-evm-portico@1.0.1",
+    "maintainers": [
+        {
+            "name": "thanglesotatek",
+            "email": "thang.le@sotatek.com"
+        }
+    ],
+    "dist": {
+        "shasum": "1eaf1f05535c6335b2d2144efadf4f26441efa3a",
+        "tarball": "https://registry.npmjs.org/1matrix-wormhole-sdk-evm-portico/-/1matrix-wormhole-sdk-evm-portico-1.0.1.tgz",
+        "fileCount": 31,
+        "integrity": "sha512-JsH3qf7vIQNOF1lr5u3c0iUfY3r49SRa4ol5tfqvel6pYn6VIz63IQKfGZVijOjeaioN7MuRFbNPi1WploKUQw==",
+        "signatures": [
+            {
+                "sig": "MEYCIQDi56IIBc6x29Q+bao5uKnhqiCKXjYLfXHdpP6B3X9pxgIhAOpZnOKeR6GYktVwOBI3W6euHYMGLuVxYHIzLTm4rzx2",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 62357
+    },
+    "main": "build/index.js",
+    "types": "build/index.d.ts",
+    "module": "build/esm/index.js",
+    "gitHead": "f021c61125b76ac1a1cc71e07c1d50853696e4a1",
+    "scripts": {
+        "test": "jest",
+        "build": "yarn clean; tsc; tsc -p tsconfig.esm.json",
+        "clean": "rimraf build"
+    },
+    "_npmUser": {
+        "name": "thanglesotatek",
+        "email": "thang.le@sotatek.com"
+    },
+    "_npmVersion": "11.3.0",
+    "description": "",
+    "directories": {},
+    "_nodeVersion": "22.14.0",
+    "dependencies": {
+        "ethers": "^6.15.0",
+        "1matrix-wormhole-sdk-evm": "^1.0.1",
+        "1matrix-wormhole-sdk-connect": "^1.0.1",
+        "1matrix-wormhole-sdk-evm-core": "^1.0.1",
+        "1matrix-wormhole-sdk-evm-tokenbridge": "^1.0.1"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "tsd": "^0.32.0",
+        "jest": "^29.7.0",
+        "rimraf": "^6.0.1",
+        "ts-jest": "^29.3.2",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.3",
+        "@types/jest": "^29.5.14",
+        "@types/node": "^22.15.16"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/1matrix-wormhole-sdk-evm-portico_1.0.1_1752395145189_0.9414264281129339",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

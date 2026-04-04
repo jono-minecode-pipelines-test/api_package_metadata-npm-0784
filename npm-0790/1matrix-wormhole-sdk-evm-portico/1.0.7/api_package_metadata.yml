@@ -1,0 +1,89 @@
+{
+    "name": "1matrix-wormhole-sdk-evm-portico",
+    "version": "1.0.7",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1matrix-wormhole-sdk-evm-portico@1.0.7",
+    "maintainers": [
+        {
+            "name": "thanglesotatek",
+            "email": "thang.le@sotatek.com"
+        }
+    ],
+    "dist": {
+        "shasum": "9e6ee0dd6c7e74fc78f6bc026c3e0dc0f623cdc2",
+        "tarball": "https://registry.npmjs.org/1matrix-wormhole-sdk-evm-portico/-/1matrix-wormhole-sdk-evm-portico-1.0.7.tgz",
+        "fileCount": 42,
+        "integrity": "sha512-p3DgKpPquPqU+swLRbXNuv4fpXgAtEr0WRxJ14MmT2DbcjZuD+ZGqI2M5oSWkmuVLOce9i13WgT5k6i8Td9Pbw==",
+        "signatures": [
+            {
+                "sig": "MEYCIQDE1FhPvT/n2bIb+0naolQ/WDSX29yQZfckAD6tqQLrTQIhAMxcIHTOd8lbXnOORO6QB2zQW9uUbhMI4K3yPuQF3gaz",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 72701
+    },
+    "main": "./dist/cjs/index.js",
+    "types": "./dist/cjs/index.d.ts",
+    "module": "./dist/esm/index.js",
+    "exports": {
+        ".": {
+            "import": {
+                "types": "./dist/esm/index.d.ts",
+                "default": "./dist/esm/index.js"
+            },
+            "default": {
+                "types": "./dist/cjs/index.d.ts",
+                "default": "./dist/cjs/index.js"
+            },
+            "require": {
+                "types": "./dist/cjs/index.d.ts",
+                "default": "./dist/cjs/index.js"
+            },
+            "react-native": {
+                "types": "./dist/cjs/index.d.ts",
+                "import": "./dist/esm/index.js",
+                "default": "./dist/cjs/index.js",
+                "require": "./dist/cjs/index.js"
+            }
+        }
+    },
+    "scripts": {
+        "test": "jest",
+        "build": "yarn clean; yarn build:cjs; yarn build:esm",
+        "clean": "rimraf dist",
+        "build:cjs": "tsc -p ./tsconfig.cjs.json  && echo '{\"type\":\"commonjs\"}' > dist/cjs/package.json",
+        "build:esm": "tsc -p ./tsconfig.esm.json"
+    },
+    "_npmUser": {
+        "name": "thanglesotatek",
+        "email": "thang.le@sotatek.com"
+    },
+    "_npmVersion": "11.3.0",
+    "description": "",
+    "directories": {},
+    "_nodeVersion": "22.14.0",
+    "dependencies": {
+        "1matrix-wormhole-sdk-evm": "^1.0.7",
+        "1matrix-wormhole-sdk-base": "^1.0.7",
+        "1matrix-wormhole-sdk-connect": "^1.0.7",
+        "1matrix-wormhole-sdk-evm-core": "^1.0.7",
+        "1matrix-wormhole-sdk-definitions": "^1.0.7",
+        "1matrix-wormhole-sdk-evm-tokenbridge": "^1.0.7"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "jest": "^29.7.0",
+        "rimraf": "^6.0.1",
+        "ts-jest": "^29.3.2",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.3",
+        "@types/jest": "^29.5.14",
+        "@types/node": "^22.15.16"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/1matrix-wormhole-sdk-evm-portico_1.0.7_1752653455851_0.2721961338440344",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

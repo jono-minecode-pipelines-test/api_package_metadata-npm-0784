@@ -1,0 +1,55 @@
+{
+    "name": "1command",
+    "version": "0.0.0-alpha.0",
+    "description": "Project based aliases for streamline your build and development flow.",
+    "main": "index.js",
+    "bin": {
+        "1": "bin/index.js"
+    },
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/technikhil314/1cli.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/technikhil314/1cli/issues"
+    },
+    "homepage": "https://github.com/technikhil314/1cli#readme",
+    "gitHead": "1b3de5265b878ca0e9a7a637d4a2fe04dce7d4b3",
+    "_id": "1command@0.0.0-alpha.0",
+    "_nodeVersion": "12.22.10",
+    "_npmVersion": "6.14.16",
+    "dist": {
+        "integrity": "sha512-UJIRw0vmHWrXMEqlMrwLM5qi0aGQjoqwIiHKGCWLGGBfFY+UomFCMoy8dqxWYCrqQ7PsPMmVpLvxDXbjMHxVAA==",
+        "shasum": "312b11341999c2b6911770b2b158d8b7834b25b9",
+        "tarball": "https://registry.npmjs.org/1command/-/1command-0.0.0-alpha.0.tgz",
+        "fileCount": 9,
+        "unpackedSize": 6092,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiLgVEACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpxnQ//dYFEnXlF1tWpP+228ME2vV4SKW6ve6DMFLFtFcYpuaOvelU0\r\nqdBIx/HvCp/+jwIlCi+gIm8mgUnrNWKuC5KpBRRsT5OM+ZQAhwmpHpgAPRnM\r\nXEqOsMo2qlOxmIT+4kPENlMuZfXb7ONfHqZ6qg8SnRyIDd7DoJ5lb6VhFOq+\r\ndt9R5+dL8DeXPnwHKlPQgs9t6Ak6cWpRykqYiP/Q+HXcInPsBvvLE5CwkR1l\r\nk1H4hcc/qnFfIc75M20TQXtdqsoRfzDoTv64maxT0E1DUa/zLC59IEHdnpjs\r\nEi9Cwkjups58DmzmJwvqQSh/7wtR927FWQWDb8MBTUdqsy3mJngW3iqdo+3y\r\nGxWvgT5XUlF2QKvuymA1NLNFfcHYpNqdSQlGzwSZWDyKe7Qixvz8Vca2v1Lk\r\nwUGmgAf+ZGmacL5uimQFMngKKk1wQYJ8/SKmC4/0ZMrNzC2p0FKa1EnbI8FP\r\n5deJ5RGbSkFZSTlvAW0IXfUvzVwaS9Lh30zOCYR3v/+9AxVKnPXAl9NFmVJO\r\nl54eRYsPhWr2HvEf+YdxaxnfqR8LsK+0NXJD6LXV1e+bireADsdUOoka/QzE\r\nlklZ9kH8CZYMUCuojC5/WesdQGbPc5mHBKP5mL8yhjwtfK9ouhdwLkJRALrc\r\nJ5eL7GtCRuVgr9Ay2K6HlS02wBOMl8b8Sss=\r\n=DG3t\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDoQHJ1b5KDMYVndGQ8RL1HvuCNUPvA/ktWZXBhx/scJwIgDf11jGr4UN58T+tKg1QXGieTDr1asI/pv0ugwkxpCM0="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "nikhil.001mehta",
+        "email": "nikhil.001mehta@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nikhil.001mehta",
+            "email": "nikhil.001mehta@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1command_0.0.0-alpha.0_1647183172790_0.9283784583560297"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,62 @@
+{
+    "name": "1matrix-stream",
+    "version": "1.0.0",
+    "main": "build/index.js",
+    "types": "build/index.d.ts",
+    "scripts": {
+        "clean": "rimraf build",
+        "build": "yarn clean && tsc",
+        "test": "jest",
+        "docs": "typedoc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^29.5.14",
+        "@types/node": "^22.15.16",
+        "jest": "^29.7.0",
+        "rimraf": "^6.0.1",
+        "ts-jest": "^29.3.2",
+        "ts-node": "^10.9.2",
+        "typedoc": "^0.28.4",
+        "typedoc-plugin-markdown": "^4.6.3",
+        "typescript": "^5.8.3"
+    },
+    "dependencies": {
+        "xstream": "^11.14.0"
+    },
+    "_id": "1matrix-stream@1.0.0",
+    "gitHead": "846a752f8380d4901287d0b579cb99f2eeebfadc",
+    "_nodeVersion": "22.14.0",
+    "_npmVersion": "10.9.2",
+    "dist": {
+        "integrity": "sha512-TfnrvUWTTuddsymwXYogcWSCWx7Q/yZF3eZiJlHxXNtzvgg049K8/DSfgb+Ygt74fp8Ni4Figz4kF4wNbdRoyg==",
+        "shasum": "5b74ef5fbe337eb575e60c71b0e5d608cbf50b64",
+        "tarball": "https://registry.npmjs.org/1matrix-stream/-/1matrix-stream-1.0.0.tgz",
+        "fileCount": 22,
+        "unpackedSize": 27752,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEQCIDEcvupsKCxXlT9B2EY4AGLY1rEM6BYlh7IoDWfVFaz1AiBOODu1qrN5NjMIiMn511Jmiur/VH/pJQDL9RCuvp7DmA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "thanglesotatek",
+        "email": "thang.le@sotatek.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "thanglesotatek",
+            "email": "thang.le@sotatek.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/1matrix-stream_1.0.0_1747031380943_0.9771254506940164"
+    },
+    "_hasShrinkwrap": false
+}
