@@ -1,0 +1,51 @@
+{
+    "name": "1802a-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "aa-test-cli": "file.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "axios": "^0.19.2",
+        "inquirer": "^7.3.3"
+    },
+    "_id": "1802a-cli@1.0.0",
+    "_nodeVersion": "12.18.2",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-jG78aszglv8v5leTLlPfKDwVtVoZS5i1vze6ABC57jX2cwzcoI4pqLv+M/t7T6cIAjcSNwboqLZygz64UuFNeQ==",
+        "shasum": "6d1d8f2932c563181a5792a3b6b0d7bd22eab041",
+        "tarball": "https://registry.npmjs.org/1802a-cli/-/1802a-cli-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 2263,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfM0l3CRA9TVsSAnZWagAAcK8QAJU/4x32dY1k1tKvi50t\nsZ9MKWOe8Ob9tfk9wirl5f57eJocc0uPkOOVjoy7FQeRBOCgxzI1IEwnXOFk\nJMomYSFCfFkOuUxz608E/F759mfts7cFaXvaSf1FpZjVQ8vg4E+5SRTQKS5n\n4//3qGjsCZC3eiUkQyl6KoHZxEg4qtWeVbSU5NsBHjd50Z76Pn1PkLrltpq/\nBOQcfEVc0zFIkXjS3/tW/6a7oHASIp5EK7BiX9A8LH+oH5DkaqpPB5PzKT6o\nhGFPL10yLQvljy9Pu34eXvIULm5kETdCyK2Eah+KUfJhpeXWZWyapRnaOsSk\ntPQvYNl4naWWuldxggRSQdQQguXNKFmJUKP199fLpFIOB1l/rV7pxPLvU8vm\nkkxht0SGKR994PKbE0hxk0nzNkHpkJcGcvcnGTYKDZEVUZrtQlV7nQVAiW/W\niGFljxsB0BU9UFRghmcN57XMlJ72v55l9wEeKu81kA/IpT0p/0UtP4B6qnIz\nb5ZUwhXAFqf99twJ9S5yCprrxzYxu/SM2RJsEDYp7CJFq+v+BARKXsCqv5ox\nB5y0QOAoIfijVpamJTuPWVTykDACx+BbKkNthWc7oHGweVauNRbzfBXtZhsX\njmpw9uATy4Q468L39MUt5muLqXrChy2rQQ9vJ4gAYFI6WDk4pN6aoJBr1qN6\nd6ou\r\n=rdkt\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHVyRF9BTabvRKi3phrBp5L/UGmn721IPD/C6N2VvtWfAiAbzlQxERUPHDq7cBMBm2nNdbWnV9YfE89SmGt+JZYapA=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "aixuexidekk",
+            "email": "wangxiaokai_0203@163.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "aixuexidekk",
+        "email": "wangxiaokai_0203@163.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1802a-cli_1.0.0_1597196663088_0.8119717082376481"
+    },
+    "_hasShrinkwrap": false
+}

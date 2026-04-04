@@ -1,0 +1,52 @@
+{
+    "name": "1802-currency-converter",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "1802-currency-converter": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.18"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "1802-currency-converter@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-URkdU/HXjAZU0J+A/hYpo0R/VVLNKWTGk24WCEFuDcjxdOvW8DEOSdOV6/vJjjNnrG7K9swtYtsAnU/QLICYIQ==",
+        "shasum": "da8ee55f6a2f86f95a03f5d7ff8bab64ccc19c8f",
+        "tarball": "https://registry.npmjs.org/1802-currency-converter/-/1802-currency-converter-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14581,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHrnvXF03pmfXpYpKJ/7uXKCZRqfmtjYefHg6aGSulcdAiAy2a/Fe7dUYo1nt7FnlsmtsQVIFqQIdUuSqBLKtoDJXQ=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "erum_naz",
+        "email": "tawassuljunaid1988@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "erum_naz",
+            "email": "tawassuljunaid1988@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1802-currency-converter_1.0.0_1713197361547_0.399294646035812"
+    },
+    "_hasShrinkwrap": false
+}

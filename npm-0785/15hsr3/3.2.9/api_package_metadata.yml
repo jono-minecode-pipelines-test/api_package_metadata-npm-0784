@@ -1,0 +1,45 @@
+{
+    "name": "15hsr3",
+    "version": "3.2.9",
+    "description": "15hsr3",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "donaldthompson16c6"
+    },
+    "license": "ISC",
+    "_id": "15hsr3@3.2.9",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-gYfrQhd0QHiSidd1wihTomKFdlkA4fq7dDjfSaH/c6Ul1ARxgRNLrrikRvaRtqkSRn/Nq+ljS1/AdJ7ZCfWUhQ==",
+        "shasum": "316e9f44cc7c1a5bf4e0c829510f148f75a1aa65",
+        "tarball": "https://registry.npmjs.org/15hsr3/-/15hsr3-3.2.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 767,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCHW1ROBJiubi9ekb2lpNJz8F62KS858Q/huGlI/vXpXgIgJXaKKgEnZZ6zbwkYxSnkw+FQnUeYc8E8HOhx6kByaVE="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "donaldthompson16c6",
+        "email": "donaldthompson16c6@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "donaldthompson16c6",
+            "email": "donaldthompson16c6@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/15hsr3_3.2.9_1683310037757_0.6152127820165638"
+    },
+    "_hasShrinkwrap": false
+}
