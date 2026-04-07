@@ -1,0 +1,53 @@
+{
+    "name": "strata.foundation.core",
+    "version": "0.0.4",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "strata.foundation.core@0.0.4",
+    "maintainers": [
+        {
+            "name": "johnliebenau",
+            "email": "johnliebenau@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "fdd05f47f378d39146d1bda1a909f3e82eee147d",
+        "tarball": "https://registry.npmjs.org/strata.foundation.core/-/strata.foundation.core-0.0.4.tgz",
+        "fileCount": 19,
+        "integrity": "sha512-AD1CdSY7Pfh0U/lsiFE40DZAoE4RtV1IhPgWTFsgKIcMUv1eqiB7RylfoQG1o9c4fhLB9n56X91M13x60uuShQ==",
+        "signatures": [
+            {
+                "sig": "MEQCIHQpiy/3Rzr/EtXHpOU0MxXDjG4WsWK71FN6OAogrFHuAiACvB3M/BrGOabwcd+JoRMTgPEb84RY+dN6j7pJuxUoHw==",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 33614
+    },
+    "main": "build/dist/index.js",
+    "types": "build/dist/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "npm pack",
+        "clean": "del-cli -f build/dist ./*.tgz",
+        "new-minor": "npm version minor",
+        "new-patch": "npm version patch",
+        "publish-package": "npm publish"
+    },
+    "_npmUser": {
+        "name": "johnliebenau",
+        "email": "johnliebenau@gmail.com"
+    },
+    "_npmVersion": "6.14.5",
+    "description": "",
+    "directories": {},
+    "_nodeVersion": "14.3.0",
+    "dependencies": {
+        "rxjs": "^7.8.1"
+    },
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/strata.foundation.core_0.0.4_1692144379709_0.11503746168176132",
+        "host": "s3://npm-registry-packages"
+    }
+}

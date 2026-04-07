@@ -1,0 +1,51 @@
+{
+    "name": "strata.foundation.core",
+    "version": "0.0.0",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "strata.foundation.core@0.0.0",
+    "maintainers": [
+        {
+            "name": "johnliebenau",
+            "email": "johnliebenau@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "5473d4d85908f1e5ea27d2f2a58b728609a54c43",
+        "tarball": "https://registry.npmjs.org/strata.foundation.core/-/strata.foundation.core-0.0.0.tgz",
+        "fileCount": 36,
+        "integrity": "sha512-B9lMs/QUNIZJ3JTsnK7+iZPEV+b2xUZNdBnNMgQq/+NEBEhaMinGpCqoJoM9AWDg33SGSDLa9j776YN//fEMbw==",
+        "signatures": [
+            {
+                "sig": "MEUCIHQQRH4Fjhgi2TzShI4Bx0YKoM+Qh01r3+RAcZowsQMVAiEAivwW7fGiPoSM31I36JL0xkDyVl9/5qAgx5QxsH3RIdM=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 48542,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJe2B4BCRA9TVsSAnZWagAAUjUP/0oY+J3vVAAozNz3IgoT\n5LU0Dd8TZhrlBbl0YB9N20HJ+xR0MCw93uB7O+SskfPBzmZKmmekzzsU/rz/\ne69/p+WQvkSPkRGK4PUvgfYfUH0tdZJ/xUP28EfmqA7Wf5b4thK2P16v5Km3\nBl5bwlhsi0WLDGKLUoHe5hGXSXG5JxkjAxVOoBMMy6r8SeUj7cVlDJfAEHhd\nAZktWKJ3f9AnBgpOUU+dtI9lMOn22xKA7zovCVU2G6TUHzxok5PCxe1M/Tfy\n2s1JWAeyYdx1qS8aUQ+2R/M9xECX1vPBVrxSJmXm/U+LLia0/O2m8zoWSgeG\nWekBlnFimR2WLIp+b8Thoy508kePiFSFyBiy7nAwkZNApqCeSpuG0tP+vX4V\nfDW2evHH7joL3OvpZoLVtrfa+xITJf1jcLKSxrZEyRwoMu416roqeR77jkIi\nCSKGuUCTWrvwYwUPHlRRMMDqrq8YNSE0S7GhgqCTtDumnkHwcLLj1k0e4vdl\nha1bGggVUdnOVGa/OLxz07zzf9grNotH9K1l4PDHDqKt8EZPX3PJCfZ2QAeB\nXKFmgUAXtRxLO/UEmffkXUecYgL9yQissLX0HgLXGCzU4V3bQ/AYZGu+Ar0d\nBDbMC39BdH2vgSBN66EE0WhU4ymueLBucJ4g5y4+ixL3/Ed6yvkOawdMY1HC\nOvts\r\n=zRJt\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc && npm pack",
+        "clean": "del-cli -f ./dist ./*.tgz"
+    },
+    "_npmUser": {
+        "name": "johnliebenau",
+        "email": "johnliebenau@gmail.com"
+    },
+    "_npmVersion": "6.14.5",
+    "description": "",
+    "directories": {},
+    "_nodeVersion": "14.3.0",
+    "dependencies": {
+        "rxjs": "^6.5.5"
+    },
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/strata.foundation.core_0.0.0_1591221761219_0.04215503590973957",
+        "host": "s3://npm-registry-packages"
+    }
+}
