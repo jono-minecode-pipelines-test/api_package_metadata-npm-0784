@@ -1,0 +1,47 @@
+{
+    "name": "strata.foundation.core",
+    "version": "0.0.0-snapshot.23",
+    "license": "Apache-2.0",
+    "_id": "strata.foundation.core@0.0.0-snapshot.23",
+    "maintainers": [
+        {
+            "name": "johnliebenau",
+            "email": "johnliebenau@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "f7dfe31e6b92e8fcd9ab2b093988f7f16797ccf8",
+        "tarball": "https://registry.npmjs.org/strata.foundation.core/-/strata.foundation.core-0.0.0-snapshot.23.tgz",
+        "fileCount": 51,
+        "integrity": "sha512-OnXsj6lI0ZiYj5AAnxaOO23oQTZZ5PvqBCbiBhITpmz79LFKKHINWcLtwabwRZvggaeLunSEXm0CJNa3QsXx+A==",
+        "signatures": [
+            {
+                "sig": "MEUCIQCsqyrf+KFoes8BDOUc4HkdkmWjzEwEeg7aV37MNt7+GQIgDpYXchAmw7YbP3M9VAYISuBPMs0aWwbFfMIQEtsqcQU=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 45625
+    },
+    "scripts": {
+        "new-build": "npm version prerelease",
+        "new-major": "yarn version --major",
+        "new-minor": "yarn version --minor",
+        "new-patch": "yarn version --patch"
+    },
+    "_npmUser": {
+        "name": "johnliebenau",
+        "email": "johnliebenau@gmail.com"
+    },
+    "description": "The core framework for Strata Foundation. Provides functionality for advanced containers and concurrency mechanisms.",
+    "directories": {},
+    "dependencies": {
+        "rxjs": "^7.8.1",
+        "@js-joda/core": "^5.5.3",
+        "guid-typescript": "^1.0.9"
+    },
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/strata.foundation.core_0.0.0-snapshot.23_1695689455931_0.3640773844752465",
+        "host": "s3://npm-registry-packages"
+    }
+}
