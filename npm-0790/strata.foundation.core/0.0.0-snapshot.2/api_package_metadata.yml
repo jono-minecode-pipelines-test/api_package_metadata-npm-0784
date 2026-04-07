@@ -1,0 +1,40 @@
+{
+    "name": "strata.foundation.core",
+    "version": "0.0.0-snapshot.2",
+    "license": "Apache-2.0",
+    "_id": "strata.foundation.core@0.0.0-snapshot.2",
+    "maintainers": [
+        {
+            "name": "johnliebenau",
+            "email": "johnliebenau@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "60436ca742c20380326f516d00b0d9ffa9b9424f",
+        "tarball": "https://registry.npmjs.org/strata.foundation.core/-/strata.foundation.core-0.0.0-snapshot.2.tgz",
+        "fileCount": 29,
+        "integrity": "sha512-iSB1UFGQXIKiVN8WQVqZ11VtAmQXxfg1MwyZkHR8SNg/NowuytuQ7Kfc6SaRVbLg5U96Zgb/wZbyl+fsbm2YMA==",
+        "signatures": [
+            {
+                "sig": "MEQCIHC/KPlO7/3xKMV2FDxSsFyQ66+G4JIaW7iixaagKVAbAiBbaBLhZ/V5AJwEV3N0j7Kd/Z6J8bel/qEj5Z1UBiyupA==",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 29177
+    },
+    "scripts": {
+        "increment-major": "npm version major",
+        "increment-minor": "npm version minor",
+        "increment-patch": "npm version patch"
+    },
+    "_npmUser": {
+        "name": "johnliebenau",
+        "email": "johnliebenau@gmail.com"
+    },
+    "directories": {},
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/strata.foundation.core_0.0.0-snapshot.2_1693100698788_0.46266061405804093",
+        "host": "s3://npm-registry-packages"
+    }
+}
